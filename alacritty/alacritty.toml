@@ -1,0 +1,87 @@
+live_config_reload = true
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.bright]
+black = "#b5aeae"
+blue = "#9d65ff"
+#bright_foreground = "#eaeaea"
+cyan = "#58d1eb"
+#dim_foreground = "#828482"
+green = "#98e024"
+magenta = "#f4005f"
+red = "#f4005f"
+white = "#f6f6ef"
+yellow = "#e0d561"
+
+[colors.cursor]
+cursor = "#F600FF"
+text = "#E2FF00"
+
+[colors.footer_bar]
+background = "#c5c8c6"
+foreground = "#1d1f21"
+
+[colors.hints.end]
+background = "#1d1f21"
+foreground = "#e9ff5e"
+
+[colors.hints.start]
+background = "#e9ff5e"
+foreground = "#1d1f21"
+
+[colors.normal]
+black = "#1a1a1a"
+blue = "#9d65ff"
+cyan = "#58d1eb"
+green = "#98e024"
+magenta = "#f4005f"
+red = "#f4005f"
+white = "#c4c5b5"
+yellow = "#fa8419"
+
+[colors.primary]
+background = "#000000"
+foreground = "#f5f256"
+
+[colors.selection]
+background = "CellForeground"
+text = "CellBackground"
+
+[cursor]
+thickness = 0.14
+unfocused_hollow = true
+
+[cursor.style]
+blinking = "Always"
+shape = "Block"
+
+[font]
+builtin_box_drawing = true
+size = 12
+
+[font.normal]
+family = "ProFontIIxNerdFont"
+
+[font.offset]
+x = 0
+y = 0
+
+[shell]
+program = "/usr/bin/zsh"
+
+[window]
+decorations = "full"
+dynamic_title = true
+opacity = 0.88
+startup_mode = "Windowed"
+dynamic_padding = true
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"
+
+[window.padding]
+x = 0
+y = 0
