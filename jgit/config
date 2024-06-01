@@ -1,0 +1,3 @@
+[filesystem "Red Hat, Inc.|21.0.3|tmpfs"]
+	timestampResolution = 4987 nanoseconds
+	minRacyThreshold = 1500 microseconds

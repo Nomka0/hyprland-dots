@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/scala-projects/scala-3-project-template">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Scala 3 Project Template – package.scala [Scala 3 Project Template]" projectWorkspaceId="2hEuPSsQv5epSZzhu5hMNrqXgsp">
+              <option name="activationTimestamp" value="1717173217168" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.17011.79" />
+              <option name="buildTimestamp" value="1716355440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="6" y="38" width="674" height="724" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1717173143197" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/scala-projects/PROYECTO">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PROYECTO – Pruebas.sc [proyecto_9515]" opened="true" projectWorkspaceId="2hExoJNprdnhwD66lXr1KSUnEIV">
+              <option name="activationTimestamp" value="1717176069971" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.17011.79" />
+              <option name="buildTimestamp" value="1716355440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="6" y="38" width="1354" height="724" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1717173216781" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/scala-projects/PROYECTO" />
+    <option name="lastProjectLocation" value="$USER_HOME$/scala-projects" />
+  </component>
+</application>

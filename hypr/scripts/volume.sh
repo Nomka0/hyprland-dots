@@ -7,10 +7,10 @@ volume="$(pamixer --get-volume)"
  
 
 # check volume
-if [ "$volume" -gt "65" ]; then
-	dunstify " $volume% " -h  int:value:$volume  -t 1000 -r $msgID
-elif [ $(pamixer --get-mute) == true ]; then
+if [ $(pamixer --get-mute) == true ]; then
 	dunstify  "  Muted " -t 800 -r $msgID
+elif [ "$volume" -gt "65" ]; then
+	dunstify " $volume% " -h  int:value:$volume  -t 1000 -r $msgID
 else
 	dunstify " $volume%" -h  int:value:$volume  -t 800 -r $msgID
 

@@ -1,0 +1,178 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1717170294044" />
+    </e>
+    <e n="$SelectAll">
+      <i c="4" l="1717174985974" />
+    </e>
+    <e n="$Undo">
+      <i c="26" l="1717175618222" />
+    </e>
+    <e n="CloseProject">
+      <i c="5" l="1717171512355" />
+    </e>
+    <e n="CompileDirty">
+      <i c="1" l="1717175467863" />
+    </e>
+    <e n="CompileFile">
+      <i c="2" l="1717175578401" />
+    </e>
+    <e n="ConfigureEditorTabs">
+      <i c="1" l="1717173410002" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1717173318739" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="41" l="1717175563928" />
+    </e>
+    <e n="EditorCopy">
+      <i c="7" l="1717174986236" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1717174984297" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1717112773587" />
+    </e>
+    <e n="EditorDown">
+      <i c="2" l="1717175181592" />
+    </e>
+    <e n="EditorEnter">
+      <i c="5" l="1717175562437" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1717173503369" />
+    </e>
+    <e n="EditorLeft">
+      <i c="23" l="1717175560482" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="2" l="1717175231216" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1717173504449" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1717170868382" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="1" l="1717170828032" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1717173552874" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1717170828644" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1717175205042" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1717175183055" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="3" l="1717173407181" />
+    </e>
+    <e n="EditorUp">
+      <i c="10" l="1717175562729" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="1" l="1717171637119" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="2" l="1717173468708" />
+    </e>
+    <e n="NewClass">
+      <i c="2" l="1717175019383" />
+    </e>
+    <e n="NewProject">
+      <i c="2" l="1717173166519" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1717169949929" />
+    </e>
+    <e n="OptimizeImports">
+      <i c="1" l="1717173433183" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1717173326513" />
+    </e>
+    <e n="Resume">
+      <i c="1" l="1717170104027" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1717173513099" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1717175259816" />
+    </e>
+    <e n="SelectInProjectView">
+      <i c="1" l="1717169982505" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1717174852477" />
+    </e>
+    <e n="Switcher">
+      <i c="2" l="1717176061223" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1717173306774" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="5" l="1717171520308" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="4" l="1717171518450" />
+    </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$EditRunConfigAndRunCurrentFileExecutorAction">
+      <i c="1" l="1717173470642" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createCurrentFileWithInlineActions$1">
+      <i c="1" l="1717173329355" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1717170712308" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="2" l="1717176061468" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1717170187181" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$MarkupModelDelegateAction">
+      <i c="7" l="1717171689251" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="4" l="1717173630765" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1717175088286" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="10" l="1717176077037" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="2" l="1717173412861" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="4" l="1717171700336" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="14" l="1717175504051" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="2" l="1717173416153" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1717171659027" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="6" l="1717173400749" />
+    </e>
+    <e n="org.jetbrains.plugins.scala.worksheet.actions.topmenu.RunWorksheetAction">
+      <i c="14" l="1717175435317" />
+    </e>
+  </component>
+</application>
