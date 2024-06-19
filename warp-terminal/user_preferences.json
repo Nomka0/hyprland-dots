@@ -1,0 +1,19 @@
+{
+  "prefs": {
+    "HonorPS1": "true",
+    "CrashReportingEnabled": "true",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "AIRequestLimitInfo": "{\"limit\":40,\"num_requests_used_since_refresh\":2,\"next_refresh_time\":\"2024-07-18T20:31:27.220185Z\"}",
+    "Theme": "\"Dark\"",
+    "AliasExpansionBannerSeen": "true",
+    "AgentModeOnboardingBlockShown": "true",
+    "TelemetryEnabled": "true",
+    "NotebookFontSize": "14.0",
+    "ChangelogVersions": "{\"v0.2024.06.11.08.02.stable_03\":true}",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "AIAssistantRequestLimitInfo": "{\"limit\":40,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-07-18T20:31:27.220185Z\"}",
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"}]",
+    "ExperimentId": "80d32e39-1fc2-4dac-930e-8c262ebb47fd",
+    "FontSize": "13.0"
+  }
+}

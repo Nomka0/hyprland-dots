@@ -20,7 +20,7 @@
         </entry>
         <entry key="$USER_HOME$/scala-projects/PROYECTO">
           <value>
-            <RecentProjectMetaInfo frameTitle="PROYECTO – Pruebas.sc [proyecto_9515]" opened="true" projectWorkspaceId="2hExoJNprdnhwD66lXr1KSUnEIV">
+            <RecentProjectMetaInfo frameTitle="PROYECTO – Pruebas.sc [proyecto_9515]" projectWorkspaceId="2hExoJNprdnhwD66lXr1KSUnEIV">
               <option name="activationTimestamp" value="1717176069971" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-241.17011.79" />
@@ -34,9 +34,89 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/scala-projects/PRUEBA1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PRUEBA1 – Pruebas.sc [PRUEBA1]" projectWorkspaceId="2hS6q5HN87RGVwTzJId6chIqIXA">
+              <option name="activationTimestamp" value="1717597443176" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.17011.79" />
+              <option name="buildTimestamp" value="1716355440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="0" width="1366" height="768" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1717601210538" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/scala-projects/THE_HEIST/heist1/Proyecto-FPFC">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Proyecto-FPFC – Pruebas.sc [Proyecto-FPFC]" projectWorkspaceId="2hRykQ2FCL9GnhD7eH4XTdVIpbp">
+              <option name="activationTimestamp" value="1717666896493" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.17011.79" />
+              <option name="buildTimestamp" value="1716355440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="6" y="38" width="1354" height="724" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1717665854554" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/scala-projects/THE_HEIST/heist2/Proyecto_FPFC">
+          <value>
+            <RecentProjectMetaInfo frameTitle="proyecto_fpfc – build.sbt [Proyecto-FPFC]" projectWorkspaceId="2hVwa4l3arp8Qizd9J08fPPfTTr">
+              <option name="activationTimestamp" value="1717709015411" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.17011.79" />
+              <option name="buildTimestamp" value="1716355440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="6" y="38" width="1354" height="724" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1717666900787" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/scala-projects/THE_HEIST/heist4">
+          <value>
+            <RecentProjectMetaInfo frameTitle="itinerarios – Datos/package.scala" projectWorkspaceId="2hWTpWulnfaG8PbO0jSzWGi8JMP">
+              <option name="activationTimestamp" value="1718290372574" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.17011.79" />
+              <option name="buildTimestamp" value="1716355440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="6" y="38" width="1354" height="724" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1718248591549" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/proyecto_fpfc">
+          <value>
+            <RecentProjectMetaInfo frameTitle="itinerarios – Itinerarios/package.scala" opened="true" projectWorkspaceId="2hWTpWulnfaG8PbO0jSzWGi8JMP">
+              <option name="activationTimestamp" value="1718306672421" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.17011.79" />
+              <option name="buildTimestamp" value="1716355440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="6" y="38" width="1354" height="724" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1718292599928" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/scala-projects/PROYECTO" />
-    <option name="lastProjectLocation" value="$USER_HOME$/scala-projects" />
+    <option name="lastOpenedProject" value="$USER_HOME$/proyecto_fpfc" />
+    <option name="lastProjectLocation" value="$USER_HOME$/scala-projects/THE_HEIST/heist2" />
   </component>
 </application>

@@ -7,7 +7,7 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="337ph7nm0wfwa">
+    <leaf ideFingerprint="3rcioc5wk5uvb" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
@@ -21,8 +21,8 @@
       <file>
         <entry file="file://$PROJECT_DIR$/test/scala/Pruebas.sc">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="44">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="176">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -61,19 +61,28 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "Scala": {
-      "usageCount": 3,
-      "lastUsed": 1717170760850
+      "usageCount": 9,
+      "lastUsed": 1717570711413
     },
     "Markdown": {
-      "usageCount": 1,
-      "lastUsed": 1717170690242
+      "usageCount": 3,
+      "lastUsed": 1717570705683
     },
     "Scala Worksheet": {
-      "usageCount": 1,
-      "lastUsed": 1717170697511
+      "usageCount": 3,
+      "lastUsed": 1717570702147
     }
   }
 }]]></component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/test/scala/Pruebas.sc" />
@@ -88,90 +97,26 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Markdown">
-      <summary usageCount="1" lastUsage="1717170690264" />
+      <summary usageCount="3" lastUsage="1717570705683" />
     </language>
     <language id="Scala">
-      <summary usageCount="3" lastUsage="1717170760850" />
+      <summary usageCount="9" lastUsage="1717570711413" />
     </language>
     <language id="Scala Worksheet">
-      <summary usageCount="1" lastUsage="1717170697511" />
+      <summary usageCount="3" lastUsage="1717570702157" />
     </language>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main/scala}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main/scala}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main/scala/Datos}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main/scala}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main/scala/Itinerarios}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main/scala}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/main/scala/ItinerariosPar}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/out}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/out}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/out/production}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/test}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Proyecto-FPFC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/test}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/nomka/scala-projects/Proyecto-FPFC/test/scala}" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32976365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16432792" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -179,14 +124,14 @@
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Messages" order="4" />
-      <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights left="0.32976365" />
+      <unified_weights left="0.16432792" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
@@ -197,6 +142,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="415" y="311" width="526" height="147" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.768@0.0.1366.768" timestamp="1717170702976" />
+    <state x="466" y="156" width="424" height="458" key="FileChooserDialogImpl" timestamp="1717571053848">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="156" width="424" height="458" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1717571053848" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -204,13 +153,6 @@
         <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/scala/Datos/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -230,10 +172,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main/scala/Datos/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/scala/Pruebas.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="176">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
     </entry>

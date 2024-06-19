@@ -13,13 +13,21 @@
     <frame x="6" y="38" width="1354" height="724" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="466" y="156" width="424" height="458" key="FileChooserDialogImpl" timestamp="1717171528291">
+    <state x="466" y="156" width="471" height="458" key="FileChooserDialogImpl" timestamp="1718292586814">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="466" y="156" width="424" height="458" key="FileChooserDialogImpl/0.0.1366.768" timestamp="1717171528291" />
-    <state x="746" y="376" width="800" height="724" key="WELCOME_SCREEN" timestamp="1717171513627">
+    <state x="466" y="156" width="471" height="458" key="FileChooserDialogImpl/0.0.1366.768" timestamp="1718292586814" />
+    <state width="612" height="111" key="ShowUsagesActions.dimensionServiceKey" timestamp="1717601573137">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="746" y="376" width="800" height="724" key="WELCOME_SCREEN/0.0.1366.768" timestamp="1717171513627" />
+    <state width="612" height="111" key="ShowUsagesActions.dimensionServiceKey/0.0.1366.768" timestamp="1717601573137" />
+    <state x="1023" y="400" width="674" height="724" key="WELCOME_SCREEN" timestamp="1718292589965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="1023" y="400" width="674" height="724" key="WELCOME_SCREEN/0.0.1366.768" timestamp="1718292589965" />
+    <state x="283" y="47" width="800" height="706" key="new project wizard" timestamp="1717349098103">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="283" y="47" width="800" height="706" key="new project wizard/0.0.1366.768" timestamp="1717349098103" />
   </component>
 </application>

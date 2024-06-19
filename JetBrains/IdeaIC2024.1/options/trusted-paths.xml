@@ -2,8 +2,12 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/proyecto_fpfc" value="true" />
         <entry key="$USER_HOME$/scala-projects/PROYECTO" value="true" />
+        <entry key="$USER_HOME$/scala-projects/PRUEBA1" value="true" />
         <entry key="$USER_HOME$/scala-projects/Proyecto-FPFC" value="true" />
+        <entry key="$USER_HOME$/scala-projects/THE_HEIST/heist1/Proyecto-FPFC" value="true" />
+        <entry key="$USER_HOME$/scala-projects/THE_HEIST/heist4" value="true" />
         <entry key="$USER_HOME$/scala-projects/scala-3-project-template" value="true" />
       </map>
     </option>

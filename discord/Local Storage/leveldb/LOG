@@ -1,0 +1,20 @@
+2024/06/17-02:07:15.553 26d9 Reusing MANIFEST /home/nomka/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/06/17-02:07:15.584 26d9 Recovering log #35
+2024/06/17-02:07:15.588 26d9 Reusing old log /home/nomka/.config/discord/Local Storage/leveldb/000035.log 
+2024/06/17-02:08:26.207 26bd Level-0 table #39: started
+2024/06/17-02:08:26.280 26bd Level-0 table #39: 3151450 bytes OK
+2024/06/17-02:08:26.292 26bd Delete type=0 #35
+2024/06/17-02:08:26.293 26bd Compacting 4@0 + 2@1 files
+2024/06/17-02:08:26.320 26bd Generated table #40@0: 54 keys, 2362717 bytes
+2024/06/17-02:08:26.367 26bd Generated table #41@0: 114 keys, 806607 bytes
+2024/06/17-02:08:26.367 26bd Compacted 4@0 + 2@1 files => 3169324 bytes
+2024/06/17-02:08:26.377 26bd compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/06/17-02:08:26.378 26bd Delete type=2 #28
+2024/06/17-02:08:26.378 26bd Delete type=2 #29
+2024/06/17-02:08:26.378 26bd Delete type=2 #31
+2024/06/17-02:08:26.378 26bd Delete type=2 #33
+2024/06/17-02:08:26.378 26bd Delete type=2 #36
+2024/06/17-02:08:26.378 26bd Delete type=2 #39
+2024/06/17-02:55:20.355 26bf Level-0 table #43: started
+2024/06/17-02:55:20.372 26bf Level-0 table #43: 15878 bytes OK
+2024/06/17-02:55:20.383 26bf Delete type=0 #38

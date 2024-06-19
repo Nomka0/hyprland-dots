@@ -1,0 +1,7 @@
+2024/06/05-18:05:51.119 268b5 Reusing MANIFEST /home/nomka/.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/05-18:05:51.120 268b5 Recovering log #3
+2024/06/05-18:05:51.120 268b5 Reusing old log /home/nomka/.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/06/05-18:06:00.122 268b4 Level-0 table #5: started
+2024/06/05-18:06:00.128 268b4 Level-0 table #5: 1200 bytes OK
+2024/06/05-18:06:00.140 268b4 Delete type=0 #3
+2024/06/05-18:06:00.140 268b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
