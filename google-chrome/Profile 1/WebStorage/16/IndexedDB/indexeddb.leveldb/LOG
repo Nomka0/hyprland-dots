@@ -1,6 +1,0 @@
-2024/07/09-21:32:35.951 1303 Creating DB /home/nomka/.config/google-chrome/Profile 1/WebStorage/16/IndexedDB/indexeddb.leveldb since it was missing.
-2024/07/09-21:32:35.971 1303 Reusing MANIFEST /home/nomka/.config/google-chrome/Profile 1/WebStorage/16/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/07/09-22:19:39.138 12f2 Level-0 table #5: started
-2024/07/09-22:19:39.144 12f2 Level-0 table #5: 1200 bytes OK
-2024/07/09-22:19:39.153 12f2 Delete type=0 #3
-2024/07/09-22:19:39.154 12f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

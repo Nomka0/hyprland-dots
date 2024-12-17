@@ -1,6 +1,0 @@
-2024/06/17-02:08:21.532 26bf Creating DB /home/nomka/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb since it was missing.
-2024/06/17-02:08:21.556 26bf Reusing MANIFEST /home/nomka/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/06/17-02:08:21.683 26d9 Level-0 table #5: started
-2024/06/17-02:08:21.698 26d9 Level-0 table #5: 712 bytes OK
-2024/06/17-02:08:21.719 26d9 Delete type=0 #3
-2024/06/17-02:08:21.721 26d8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

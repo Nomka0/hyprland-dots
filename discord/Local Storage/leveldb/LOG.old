@@ -1,6 +1,0 @@
-2024/10/22-22:12:32.389 b08c Reusing MANIFEST /home/nomka/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/10/22-22:12:32.396 b08c Recovering log #56
-2024/10/22-22:12:32.401 b08c Reusing old log /home/nomka/.config/discord/Local Storage/leveldb/000056.log 
-2024/10/22-22:17:31.160 b08e Level-0 table #60: started
-2024/10/22-22:17:31.223 b08e Level-0 table #60: 3293667 bytes OK
-2024/10/22-22:17:31.242 b08e Delete type=0 #56

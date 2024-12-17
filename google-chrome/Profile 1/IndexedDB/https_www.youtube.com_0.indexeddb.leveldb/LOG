@@ -1,6 +1,0 @@
-2024/11/30-21:12:37.545 46c6 Reusing MANIFEST /home/nomka/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/30-21:12:37.549 46c6 Recovering log #11
-2024/11/30-21:12:37.634 46c6 Reusing old log /home/nomka/.config/google-chrome/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
-2024/11/30-21:13:10.642 46c8 Level-0 table #16: started
-2024/11/30-21:13:10.739 46c8 Level-0 table #16: 1925354 bytes OK
-2024/11/30-21:13:10.771 46c8 Delete type=0 #11
