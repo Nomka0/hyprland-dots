@@ -1,0 +1,21 @@
+2024/11/30-21:12:26.626 46c6 Reusing MANIFEST /home/nomka/.config/google-chrome/Profile 1/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/11/30-21:12:26.647 46c6 Recovering log #210
+2024/11/30-21:12:26.656 46c6 Reusing old log /home/nomka/.config/google-chrome/Profile 1/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000210.log 
+2024/11/30-21:12:40.205 46c6 Level-0 table #214: started
+2024/11/30-21:12:40.289 46c6 Level-0 table #214: 4534268 bytes OK
+2024/11/30-21:12:40.304 46c6 Delete type=0 #210
+2024/11/30-21:12:40.305 46c6 Compacting 4@0 + 4@1 files
+2024/11/30-21:12:40.378 46c6 Generated table #215@0: 6 keys, 2399086 bytes
+2024/11/30-21:12:40.485 46c6 Generated table #216@0: 8 keys, 2722817 bytes
+2024/11/30-21:12:40.578 46c6 Generated table #217@0: 11 keys, 2179060 bytes
+2024/11/30-21:12:40.591 46c6 Generated table #218@0: 9 keys, 217238 bytes
+2024/11/30-21:12:40.592 46c6 Compacted 4@0 + 4@1 files => 7518201 bytes
+2024/11/30-21:12:40.610 46c6 compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/11/30-21:12:40.611 46c6 Delete type=2 #201
+2024/11/30-21:12:40.611 46c6 Delete type=2 #202
+2024/11/30-21:12:40.611 46c6 Delete type=2 #203
+2024/11/30-21:12:40.611 46c6 Delete type=2 #204
+2024/11/30-21:12:40.611 46c6 Delete type=2 #206
+2024/11/30-21:12:40.611 46c6 Delete type=2 #209
+2024/11/30-21:12:40.611 46c6 Delete type=2 #211
+2024/11/30-21:12:40.611 46c6 Delete type=2 #214

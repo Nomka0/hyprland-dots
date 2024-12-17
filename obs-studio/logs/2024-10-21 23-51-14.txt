@@ -1,0 +1,979 @@
+23:51:14.221: [Safe Mode] Unclean shutdown detected!
+23:51:18.939: [Safe Mode] User elected to launch normally.
+23:51:18.939: Platform: Wayland
+23:51:18.939: CPU Name: AMD Athlon Silver 3050U with Radeon Graphics
+23:51:18.939: CPU Speed: 3151.087MHz
+23:51:18.939: Physical Cores: 2, Logical Cores: 2
+23:51:18.941: Physical Memory: 5831MB Total, 103MB Free
+23:51:18.942: Kernel Version: Linux 6.10.6-200.fc40.x86_64
+23:51:18.942: Distribution: "Fedora Linux" 40
+23:51:18.942: Desktop Environment: Hyprland
+23:51:18.942: Session Type: wayland
+23:51:18.943: Qt Version: 6.7.2 (runtime), 6.7.2 (compiled)
+23:51:18.944: Portable mode: false
+23:51:19.015: OBS 30.2.2 (linux)
+23:51:19.015: ---------------------------------
+23:51:19.016: ---------------------------------
+23:51:19.016: audio settings reset:
+23:51:19.016: 	samples per sec: 48000
+23:51:19.016: 	speakers:        2
+23:51:19.016: 	max buffering:   960 milliseconds
+23:51:19.016: 	buffering type:  dynamically increasing
+23:51:19.059: ---------------------------------
+23:51:19.059: Initializing OpenGL...
+23:51:19.059: Using EGL/Wayland
+23:51:19.085: Initialized EGL 1.5
+23:51:19.124: Loading up OpenGL on adapter AMD AMD Radeon Graphics (radeonsi, raven2, LLVM 18.1.6, DRM 3.57, 6.10.6-200.fc40.x86_64)
+23:51:19.124: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.1.6, shading language 4.60
+23:51:19.241: ---------------------------------
+23:51:19.241: video settings reset:
+23:51:19.241: 	base resolution:   1366x768
+23:51:19.241: 	output resolution: 1364x768
+23:51:19.241: 	downscale filter:  Bicubic
+23:51:19.241: 	fps:               30/1
+23:51:19.241: 	format:            NV12
+23:51:19.241: 	YUV mode:          Rec. 709/Partial
+23:51:19.241: NV12 texture support enabled
+23:51:19.241: P010 texture support not available
+23:51:19.275: Audio monitoring device:
+23:51:19.275: 	name: Default
+23:51:19.275: 	id: default
+23:51:19.278: ---------------------------------
+23:51:19.327: Failed to load 'en-US' text for module: 'decklink-captions.so'
+23:51:19.385: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+23:51:19.439: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+23:51:19.439: Failed to initialize module 'decklink.so'
+23:51:20.039: [pipewire] Available capture sources:
+23:51:20.039: [pipewire]     - Monitor source
+23:51:20.039: [pipewire]     - Window source
+23:51:20.138: v4l2loopback not installed, virtual camera not registered
+23:51:20.495: [obs-browser]: Version 2.23.5
+23:51:20.495: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0+g17f8588+chromium-103.0.5060.134 (compiled)
+23:51:21.026: VAAPI: API version 1.21
+23:51:21.035: FFmpeg VAAPI H264 encoding supported
+23:51:21.080: FFmpeg VAAPI AV1 encoding not supported
+23:51:21.108: FFmpeg VAAPI HEVC encoding supported
+23:51:21.668: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.1 | RPC Version: 1)
+23:51:21.668: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.7.2 | Qt version (run-time): 6.7.2
+23:51:21.668: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+23:51:21.690: [obs-websocket] [obs_module_load] Module loaded.
+23:51:21.908: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+23:51:21.908: ---------------------------------
+23:51:21.908:   Loaded Modules:
+23:51:21.908:     vlc-video.so
+23:51:21.908:     text-freetype2.so
+23:51:21.908:     rtmp-services.so
+23:51:21.914:     obs-x264.so
+23:51:21.914:     obs-websocket.so
+23:51:21.914:     obs-webrtc.so
+23:51:21.914:     obs-webkitgtk.so
+23:51:21.914:     obs-vst.so
+23:51:21.914:     obs-transitions.so
+23:51:21.914:     obs-qsv11.so
+23:51:21.914:     obs-outputs.so
+23:51:21.914:     obs-libfdk.so
+23:51:21.914:     obs-filters.so
+23:51:21.914:     obs-ffmpeg.so
+23:51:21.914:     obs-browser.so
+23:51:21.914:     linux-v4l2.so
+23:51:21.914:     linux-pulseaudio.so
+23:51:21.914:     linux-pipewire.so
+23:51:21.914:     linux-jack.so
+23:51:21.914:     linux-capture.so
+23:51:21.914:     linux-alsa.so
+23:51:21.914:     image-source.so
+23:51:21.914:     frontend-tools.so
+23:51:21.914:     decklink-output-ui.so
+23:51:21.915:     decklink-captions.so
+23:51:21.915: ---------------------------------
+23:51:21.915: ---------------------------------
+23:51:21.915: Available Encoders:
+23:51:21.915:   Video Encoders:
+23:51:21.915: 	- ffmpeg_openh264 (OpenH264)
+23:51:21.915: 	- ffmpeg_svt_av1 (SVT-AV1)
+23:51:21.915: 	- ffmpeg_aom_av1 (AOM AV1)
+23:51:21.915: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+23:51:21.915: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+23:51:21.915: 	- obs_x264 (x264)
+23:51:21.915:   Audio Encoders:
+23:51:21.915: 	- ffmpeg_aac (FFmpeg AAC)
+23:51:21.915: 	- ffmpeg_opus (FFmpeg Opus)
+23:51:21.915: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+23:51:21.915: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+23:51:21.915: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+23:51:21.915: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+23:51:21.915: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+23:51:21.915: 	- libfdk_aac (libfdk AAC)
+23:51:21.915: ==== Startup complete ===============================================
+23:51:22.056: All scene data cleared
+23:51:22.057: ------------------------------------------------
+23:51:22.074: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+23:51:22.074: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+23:51:22.074: pulse-input: Started recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor' (default)
+23:51:22.074: [Loaded global audio device]: 'Desktop Audio'
+23:51:22.076: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+23:51:22.078: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+23:51:22.078: pulse-input: Started recording from 'alsa_input.pci-0000_04_00.6.analog-stereo' (default)
+23:51:22.078: [Loaded global audio device]: 'Mic/Aux'
+23:51:22.078: PipeWire initialized
+23:51:22.080: PipeWire initialized
+23:51:22.081: PipeWire initialized
+23:51:22.081: PipeWire initialized
+23:51:22.088: Switched to scene 'Scene'
+23:51:22.088: ------------------------------------------------
+23:51:22.088: Loaded scenes:
+23:51:22.088: - scene 'Scene':
+23:51:22.088:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+23:51:22.088:     - source: 'Screen Capture (PipeWire) 2' (pipewire-desktop-capture-source)
+23:51:22.088:     - source: 'Screen Capture (PipeWire) 3' (pipewire-screen-capture-source)
+23:51:22.088:     - source: 'Screen Capture (PipeWire) 4' (pipewire-screen-capture-source)
+23:51:22.088: ------------------------------------------------
+23:51:22.331: [pipewire] Screencast session created
+23:51:22.331: [pipewire] Screencast session created
+23:51:22.331: [pipewire] Screencast session created
+23:51:22.332: [pipewire] Screencast session created
+23:51:22.667: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+23:51:22.667: 
+23:51:22.753: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+23:51:22.753: 
+23:51:23.942: [pipewire] Asking for monitor and window
+23:51:25.207: [pipewire] Asking for monitor
+23:51:26.861: [pipewire] Asking for monitor and window
+23:51:28.472: [pipewire] Asking for monitor
+23:51:28.507: [pipewire] source selected, setting up screencast
+23:51:28.507: [pipewire] source selected, setting up screencast
+23:51:28.536: [pipewire] source selected, setting up screencast
+23:51:28.591: [pipewire] Server version: 1.0.7
+23:51:28.591: [pipewire] Library version: 1.0.7
+23:51:28.591: [pipewire] Header version: 1.0.7
+23:51:28.595: [pipewire] Created stream 0x55a86d7de150
+23:51:28.595: [pipewire] Stream 0x55a86d7de150 state: "connecting" (error: none)
+23:51:28.595: [pipewire] Playing stream 0x55a86d7de150
+23:51:28.596: [pipewire] source selected, setting up screencast
+23:51:28.601: [pipewire] Server version: 1.0.7
+23:51:28.601: [pipewire] Library version: 1.0.7
+23:51:28.601: [pipewire] Header version: 1.0.7
+23:51:28.604: [pipewire] Stream 0x55a86d7de150 state: "paused" (error: none)
+23:51:28.605: [pipewire] Created stream 0x55a86d4aaf40
+23:51:28.605: [pipewire] Stream 0x55a86d4aaf40 state: "connecting" (error: none)
+23:51:28.605: [pipewire] Playing stream 0x55a86d4aaf40
+23:51:28.608: [pipewire] Stream 0x55a86d4aaf40 state: "paused" (error: none)
+23:51:28.610: [pipewire] Server version: 1.0.7
+23:51:28.611: [pipewire] Library version: 1.0.7
+23:51:28.611: [pipewire] Header version: 1.0.7
+23:51:28.611: [pipewire] Created stream 0x55a86d4debc0
+23:51:28.611: [pipewire] Stream 0x55a86d4debc0 state: "connecting" (error: none)
+23:51:28.612: [pipewire] Playing stream 0x55a86d4debc0
+23:51:28.614: [pipewire] Stream 0x55a86d4debc0 state: "paused" (error: none)
+23:51:28.621: [pipewire] Server version: 1.0.7
+23:51:28.621: [pipewire] Library version: 1.0.7
+23:51:28.621: [pipewire] Header version: 1.0.7
+23:51:28.624: [pipewire] Created stream 0x55a86d5140d0
+23:51:28.624: [pipewire] Stream 0x55a86d5140d0 state: "connecting" (error: none)
+23:51:28.624: [pipewire] Playing stream 0x55a86d5140d0
+23:51:28.628: [pipewire] Stream 0x55a86d5140d0 state: "paused" (error: none)
+23:51:28.652: [pipewire] Negotiated format:
+23:51:28.653: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.653: [pipewire]     Modifier: 0x0
+23:51:28.653: [pipewire]     Size: 1366x768
+23:51:28.653: [pipewire]     Framerate: 0/1
+23:51:28.677: [pipewire] Negotiated format:
+23:51:28.677: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.677: [pipewire]     Modifier: 0x20000024331ba01
+23:51:28.677: [pipewire]     Size: 1366x768
+23:51:28.677: [pipewire]     Framerate: 0/1
+23:51:28.678: [pipewire] Negotiated format:
+23:51:28.678: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.678: [pipewire]     Modifier: 0x0
+23:51:28.678: [pipewire]     Size: 1366x768
+23:51:28.678: [pipewire]     Framerate: 0/1
+23:51:28.690: [pipewire] Negotiated format:
+23:51:28.690: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.690: [pipewire]     Modifier: 0x20000024331ba01
+23:51:28.690: [pipewire]     Size: 1366x768
+23:51:28.690: [pipewire]     Framerate: 0/1
+23:51:28.713: [pipewire] Negotiated format:
+23:51:28.714: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.714: [pipewire]     Modifier: 0x0
+23:51:28.714: [pipewire]     Size: 1366x768
+23:51:28.714: [pipewire]     Framerate: 0/1
+23:51:28.715: [pipewire] Negotiated format:
+23:51:28.715: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.715: [pipewire]     Modifier: 0x0
+23:51:28.715: [pipewire]     Size: 1366x768
+23:51:28.715: [pipewire]     Framerate: 0/1
+23:51:28.717: [pipewire] Stream 0x55a86d7de150 state: "streaming" (error: none)
+23:51:28.720: [pipewire] Negotiated format:
+23:51:28.720: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.720: [pipewire]     Modifier: 0x20000024331ba01
+23:51:28.720: [pipewire]     Size: 1366x768
+23:51:28.720: [pipewire]     Framerate: 0/1
+23:51:28.722: [pipewire] Negotiated format:
+23:51:28.722: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.722: [pipewire]     Modifier: 0x20000024331ba01
+23:51:28.722: [pipewire]     Size: 1366x768
+23:51:28.722: [pipewire]     Framerate: 0/1
+23:51:28.724: [pipewire] Stream 0x55a86d4aaf40 state: "streaming" (error: none)
+23:51:28.735: [pipewire] Stream 0x55a86d4debc0 state: "streaming" (error: none)
+23:51:28.735: [pipewire] Stream 0x55a86d5140d0 state: "streaming" (error: none)
+23:51:28.753: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.753: [pipewire] Renegotiating stream
+23:51:28.756: [pipewire] Negotiated format:
+23:51:28.756: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.756: [pipewire]     Modifier: 0x20000024331ba01
+23:51:28.756: [pipewire]     Size: 1366x768
+23:51:28.757: [pipewire]     Framerate: 0/1
+23:51:28.757: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.757: [pipewire] Renegotiating stream
+23:51:28.757: [pipewire] Negotiated format:
+23:51:28.757: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.757: [pipewire]     Modifier: 0x20000024331b901
+23:51:28.757: [pipewire]     Size: 1366x768
+23:51:28.757: [pipewire]     Framerate: 0/1
+23:51:28.758: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.758: [pipewire] Renegotiating stream
+23:51:28.759: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.760: [pipewire] Renegotiating stream
+23:51:28.762: [pipewire] Negotiated format:
+23:51:28.762: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.762: [pipewire]     Modifier: 0x20000024331ba01
+23:51:28.762: [pipewire] Negotiated format:
+23:51:28.762: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.762: [pipewire]     Modifier: 0x20000024331ba01
+23:51:28.762: [pipewire]     Size: 1366x768
+23:51:28.762: [pipewire]     Framerate: 0/1
+23:51:28.762: [pipewire]     Size: 1366x768
+23:51:28.763: [pipewire]     Framerate: 0/1
+23:51:28.764: [pipewire] Negotiated format:
+23:51:28.765: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.765: [pipewire]     Modifier: 0x20000024331ba01
+23:51:28.765: [pipewire]     Size: 1366x768
+23:51:28.765: [pipewire]     Framerate: 0/1
+23:51:28.775: [pipewire] Negotiated format:
+23:51:28.775: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.775: [pipewire]     Modifier: 0x20000024331b901
+23:51:28.775: [pipewire]     Size: 1366x768
+23:51:28.775: [pipewire]     Framerate: 0/1
+23:51:28.776: [pipewire] Negotiated format:
+23:51:28.776: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.776: [pipewire]     Modifier: 0x20000024331b901
+23:51:28.776: [pipewire]     Size: 1366x768
+23:51:28.776: [pipewire]     Framerate: 0/1
+23:51:28.782: [pipewire] Negotiated format:
+23:51:28.782: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.782: [pipewire]     Modifier: 0x20000024331b901
+23:51:28.782: [pipewire]     Size: 1366x768
+23:51:28.782: [pipewire]     Framerate: 0/1
+23:51:28.787: [pipewire] Stream 0x55a86d4debc0 state: "paused" (error: none)
+23:51:28.787: [pipewire] Stream 0x55a86d7de150 state: "paused" (error: none)
+23:51:28.788: [pipewire] Stream 0x55a86d4aaf40 state: "paused" (error: none)
+23:51:28.799: [pipewire] Stream 0x55a86d7de150 state: "streaming" (error: none)
+23:51:28.800: [pipewire] Stream 0x55a86d4debc0 state: "streaming" (error: none)
+23:51:28.802: [pipewire] Stream 0x55a86d4aaf40 state: "streaming" (error: none)
+23:51:28.806: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.806: [pipewire] Renegotiating stream
+23:51:28.806: [pipewire] Stream 0x55a86d5140d0 state: "paused" (error: none)
+23:51:28.806: [pipewire] Negotiated format:
+23:51:28.806: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.806: [pipewire]     Modifier: 0x20000024331b901
+23:51:28.806: [pipewire]     Size: 1366x768
+23:51:28.806: [pipewire]     Framerate: 0/1
+23:51:28.810: [pipewire] Negotiated format:
+23:51:28.810: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.810: [pipewire]     Modifier: 0x200000003313901
+23:51:28.810: [pipewire]     Size: 1366x768
+23:51:28.810: [pipewire]     Framerate: 0/1
+23:51:28.818: [pipewire] Stream 0x55a86d5140d0 state: "streaming" (error: none)
+23:51:28.825: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.825: [pipewire] Renegotiating stream
+23:51:28.827: [pipewire] Negotiated format:
+23:51:28.827: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.827: [pipewire]     Modifier: 0x20000024331b901
+23:51:28.827: [pipewire]     Size: 1366x768
+23:51:28.827: [pipewire]     Framerate: 0/1
+23:51:28.827: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.827: [pipewire] Renegotiating stream
+23:51:28.833: [pipewire] Negotiated format:
+23:51:28.833: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.833: [pipewire]     Modifier: 0x20000024331b901
+23:51:28.833: [pipewire]     Size: 1366x768
+23:51:28.833: [pipewire]     Framerate: 0/1
+23:51:28.835: [pipewire] Negotiated format:
+23:51:28.838: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.838: [pipewire]     Modifier: 0x200000003313901
+23:51:28.838: [pipewire]     Size: 1366x768
+23:51:28.838: [pipewire]     Framerate: 0/1
+23:51:28.839: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.839: [pipewire] Renegotiating stream
+23:51:28.839: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.839: [pipewire] Renegotiating stream
+23:51:28.841: [pipewire] Negotiated format:
+23:51:28.841: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.841: [pipewire]     Modifier: 0x200000003313901
+23:51:28.841: [pipewire]     Size: 1366x768
+23:51:28.841: [pipewire]     Framerate: 0/1
+23:51:28.847: [pipewire] Negotiated format:
+23:51:28.847: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.847: [pipewire]     Modifier: 0x200000003313901
+23:51:28.847: [pipewire]     Size: 1366x768
+23:51:28.847: [pipewire]     Framerate: 0/1
+23:51:28.848: [pipewire] Negotiated format:
+23:51:28.848: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.848: [pipewire]     Modifier: 0x20000024331b901
+23:51:28.848: [pipewire]     Size: 1366x768
+23:51:28.848: [pipewire]     Framerate: 0/1
+23:51:28.851: [pipewire] Stream 0x55a86d5140d0 state: "paused" (error: none)
+23:51:28.851: [pipewire] Stream 0x55a86d7de150 state: "paused" (error: none)
+23:51:28.851: [pipewire] Stream 0x55a86d4debc0 state: "paused" (error: none)
+23:51:28.857: [pipewire] Stream 0x55a86d4debc0 state: "streaming" (error: none)
+23:51:28.858: [pipewire] Negotiated format:
+23:51:28.858: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.858: [pipewire]     Modifier: 0x200000003201a01
+23:51:28.858: [pipewire]     Size: 1366x768
+23:51:28.858: [pipewire]     Framerate: 0/1
+23:51:28.858: [pipewire] Negotiated format:
+23:51:28.858: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.858: [pipewire]     Modifier: 0x200000003313901
+23:51:28.858: [pipewire]     Size: 1366x768
+23:51:28.858: [pipewire]     Framerate: 0/1
+23:51:28.870: [pipewire] Stream 0x55a86d7de150 state: "streaming" (error: none)
+23:51:28.871: [pipewire] Stream 0x55a86d5140d0 state: "streaming" (error: none)
+23:51:28.904: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+23:51:28.904: [pipewire] Renegotiating stream
+23:51:28.906: [pipewire] Negotiated format:
+23:51:28.907: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.907: [pipewire]     Modifier: 0x200000003313901
+23:51:28.907: [pipewire]     Size: 1366x768
+23:51:28.907: [pipewire]     Framerate: 0/1
+23:51:28.908: [pipewire] Negotiated format:
+23:51:28.908: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+23:51:28.908: [pipewire]     Modifier: 0x200000003201a01
+23:51:28.908: [pipewire]     Size: 1366x768
+23:51:28.908: [pipewire]     Framerate: 0/1
+23:51:38.973: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+23:51:38.973: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+23:51:38.991: User added source 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source) to scene 'Scene'
+23:51:39.082: [camera-portal] Selected resolution for ''
+23:51:39.082: [camera-portal] Selected format for ''
+23:51:39.082: [camera-portal] selected camera ''
+23:51:43.162: [camera-portal] Successfully accessed cameras
+23:51:43.177: [pipewire] Server version: 1.0.7
+23:51:43.178: [pipewire] Library version: 1.0.7
+23:51:43.178: [pipewire] Header version: 1.0.7
+23:51:43.178: [pipewire] Created registry 0x55a86d8a4f50
+23:51:43.179: [camera-portal] Found device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:51:44.665: [camera-portal] Selected resolution for ''
+23:51:44.665: [camera-portal] Selected format for ''
+23:51:44.665: [camera-portal] selected camera ''
+23:51:46.726: [camera-portal] selected camera 'v4l2_input.pci-0000_04_00.3-usb-0_4_1.0'
+23:51:46.726: [camera-portal] streaming camera 'v4l2_input.pci-0000_04_00.3-usb-0_4_1.0'
+23:51:46.726: [pipewire] Created stream 0x55a86cf28490
+23:51:46.726: [pipewire] Stream 0x55a86cf28490 state: "connecting" (error: none)
+23:51:46.726: [pipewire] Playing stream 0x55a86cf28490
+23:51:46.726: [camera-portal] Updating pixel formats
+23:51:46.727: [camera-portal] Selected format for 'v4l2_input.pci-0000_04_00.3-usb-0_4_1.0'
+23:51:46.727: [pipewire] Stream 0x55a86cf28490 state: "paused" (error: none)
+23:51:46.744: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:51:46.753: [camera-portal] Selected format for 'v4l2_input.pci-0000_04_00.3-usb-0_4_1.0'
+23:51:46.765: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_04_00.3-usb-0_4_1.0'
+23:51:46.768: [pipewire] Renegotiating stream
+23:51:46.776: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:51:46.787: [pipewire] Renegotiating stream
+23:51:46.808: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:51:46.919: [pipewire] Negotiated format:
+23:51:46.919: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+23:51:46.919: [pipewire]     Size: 176x144
+23:51:46.919: [pipewire]     Framerate: 30/1
+23:51:46.957: [pipewire] Negotiated format:
+23:51:46.957: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+23:51:46.958: [pipewire]     Size: 176x144
+23:51:46.958: [pipewire]     Framerate: 30/1
+23:51:46.963: [pipewire] Stream 0x55a86cf28490 state: "streaming" (error: none)
+23:53:01.335: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_04_00.3-usb-0_4_1.0'
+23:53:01.337: [pipewire] Renegotiating stream
+23:53:01.343: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:01.397: [pipewire] Negotiated format:
+23:53:01.397: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+23:53:01.397: [pipewire]     Size: 320x240
+23:53:01.397: [pipewire]     Framerate: 30/1
+23:53:05.075: [camera-portal] Selected resolution for 'v4l2_input.pci-0000_04_00.3-usb-0_4_1.0'
+23:53:05.075: [pipewire] Renegotiating stream
+23:53:05.075: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:05.075: [pipewire] Stream 0x55a86cf28490 state: "paused" (error: none)
+23:53:05.115: [pipewire] Negotiated format:
+23:53:05.115: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+23:53:05.115: [pipewire]     Size: 640x480
+23:53:05.115: [pipewire]     Framerate: 30/1
+23:53:05.161: [pipewire] Negotiated format:
+23:53:05.161: [pipewire]     Format: 4 (Spa:Enum:VideoFormat:YUY2)
+23:53:05.161: [pipewire]     Size: 640x480
+23:53:05.161: [pipewire]     Framerate: 30/1
+23:53:05.165: [pipewire] Stream 0x55a86cf28490 state: "streaming" (error: none)
+23:53:16.876: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:18.642: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:21.208: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:21.942: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:25.842: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:27.809: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:29.842: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:32.209: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:32.476: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:32.742: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:43.444: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:50.810: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:53:56.675: [camera-portal] Updating device v4l2_input.pci-0000_04_00.3-usb-0_4_1.0
+23:54:13.620: ---------------------------------
+23:54:13.620: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+23:54:13.620: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+23:54:13.620: 	rate_control: CBR
+23:54:13.620: 	profile:      100
+23:54:13.620: 	level:        -99
+23:54:13.620: 	qp:           0
+23:54:13.620: 	bitrate:      2500
+23:54:13.620: 	maxrate:      2500
+23:54:13.620: 	keyint:       120
+23:54:13.620: 	width:        1364
+23:54:13.620: 	height:       768
+23:54:13.620: 	b-frames:     0
+23:54:13.620: 	ffmpeg opts:  
+23:54:13.620: 
+23:54:13.663: libfdk_aac encoder created
+23:54:13.663: libfdk_aac bitrate: 160, channels: 2
+23:54:13.674: ==== Recording Start ===============================================
+23:54:13.674: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-21 23-54-13.mp4'...
+23:54:21.963: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-21 23-54-13.mp4' stopped
+23:54:21.963: Output 'adv_file_output': stopping
+23:54:21.963: Output 'adv_file_output': Total frames output: 241
+23:54:21.963: Output 'adv_file_output': Total drawn frames: 249
+23:54:21.964: ==== Recording Stop ================================================
+23:54:21.971: Video stopped, number of skipped frames due to encoding lag: 5/248 (2.0%)
+23:54:22.214: libfdk_aac encoder destroyed
+23:54:50.875: ---------------------------------
+23:54:50.876: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+23:54:50.876: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+23:54:50.876: 	rate_control: CBR
+23:54:50.876: 	profile:      100
+23:54:50.876: 	level:        -99
+23:54:50.876: 	qp:           0
+23:54:50.876: 	bitrate:      2500
+23:54:50.876: 	maxrate:      2500
+23:54:50.876: 	keyint:       120
+23:54:50.876: 	width:        1364
+23:54:50.876: 	height:       768
+23:54:50.876: 	b-frames:     0
+23:54:50.876: 	ffmpeg opts:  
+23:54:50.876: 
+23:54:50.905: libfdk_aac encoder created
+23:54:50.905: libfdk_aac bitrate: 160, channels: 2
+23:54:50.908: ==== Recording Start ===============================================
+23:54:50.908: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-21 23-54-50.mp4'...
+23:54:59.730: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-21 23-54-50.mp4' stopped
+23:54:59.731: Output 'adv_file_output': stopping
+23:54:59.731: Output 'adv_file_output': Total frames output: 261
+23:54:59.731: Output 'adv_file_output': Total drawn frames: 265
+23:54:59.783: ==== Recording Stop ================================================
+23:54:59.906: libfdk_aac encoder destroyed
+23:55:27.239: ---------------------------------
+23:55:27.239: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+23:55:27.239: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+23:55:27.239: 	rate_control: CBR
+23:55:27.239: 	profile:      100
+23:55:27.239: 	level:        -99
+23:55:27.239: 	qp:           0
+23:55:27.239: 	bitrate:      2500
+23:55:27.239: 	maxrate:      2500
+23:55:27.239: 	keyint:       120
+23:55:27.239: 	width:        1364
+23:55:27.239: 	height:       768
+23:55:27.239: 	b-frames:     0
+23:55:27.239: 	ffmpeg opts:  
+23:55:27.239: 
+23:55:27.342: libfdk_aac encoder created
+23:55:27.342: libfdk_aac bitrate: 160, channels: 2
+23:55:27.360: ==== Recording Start ===============================================
+23:55:27.360: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-21 23-55-27.mp4'...
+23:55:56.322: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-21 23-55-27.mp4' stopped
+23:55:56.322: Output 'adv_file_output': stopping
+23:55:56.322: Output 'adv_file_output': Total frames output: 866
+23:55:56.322: Output 'adv_file_output': Total drawn frames: 869
+23:55:56.322: ==== Recording Stop ================================================
+23:55:56.352: libfdk_aac encoder destroyed
+23:56:03.122: ---------------------------------
+23:56:03.122: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+23:56:03.122: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+23:56:03.122: 	rate_control: CBR
+23:56:03.122: 	profile:      100
+23:56:03.122: 	level:        -99
+23:56:03.122: 	qp:           0
+23:56:03.122: 	bitrate:      2500
+23:56:03.122: 	maxrate:      2500
+23:56:03.122: 	keyint:       120
+23:56:03.122: 	width:        1364
+23:56:03.122: 	height:       768
+23:56:03.122: 	b-frames:     0
+23:56:03.122: 	ffmpeg opts:  
+23:56:03.122: 
+23:56:03.160: libfdk_aac encoder created
+23:56:03.160: libfdk_aac bitrate: 160, channels: 2
+23:56:03.168: ==== Recording Start ===============================================
+23:56:03.168: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-21 23-56-03.mp4'...
+23:57:41.610: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-21 23-56-03.mp4' stopped
+23:57:41.610: Output 'adv_file_output': stopping
+23:57:41.610: Output 'adv_file_output': Total frames output: 2949
+23:57:41.610: Output 'adv_file_output': Total drawn frames: 2954
+23:57:41.610: ==== Recording Stop ================================================
+23:57:41.898: libfdk_aac encoder destroyed
+23:58:53.374: ---------------------------------
+23:58:53.374: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+23:58:53.374: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+23:58:53.374: 	rate_control: CBR
+23:58:53.374: 	profile:      100
+23:58:53.374: 	level:        -99
+23:58:53.374: 	qp:           0
+23:58:53.374: 	bitrate:      2500
+23:58:53.374: 	maxrate:      2500
+23:58:53.374: 	keyint:       120
+23:58:53.374: 	width:        1364
+23:58:53.374: 	height:       768
+23:58:53.374: 	b-frames:     0
+23:58:53.374: 	ffmpeg opts:  
+23:58:53.374: 
+23:58:53.393: libfdk_aac encoder created
+23:58:53.393: libfdk_aac bitrate: 160, channels: 2
+23:58:53.397: ==== Recording Start ===============================================
+23:58:53.397: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-21 23-58-53.mp4'...
+00:00:28.122: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-21 23-58-53.mp4' stopped
+00:00:28.123: Output 'adv_file_output': stopping
+00:00:28.123: Output 'adv_file_output': Total frames output: 2838
+00:00:28.123: Output 'adv_file_output': Total drawn frames: 2842
+00:00:28.123: ==== Recording Stop ================================================
+00:00:28.133: libfdk_aac encoder destroyed
+00:00:31.325: ---------------------------------
+00:00:31.325: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:00:31.325: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:00:31.325: 	rate_control: CBR
+00:00:31.325: 	profile:      100
+00:00:31.325: 	level:        -99
+00:00:31.325: 	qp:           0
+00:00:31.325: 	bitrate:      2500
+00:00:31.325: 	maxrate:      2500
+00:00:31.325: 	keyint:       120
+00:00:31.325: 	width:        1364
+00:00:31.325: 	height:       768
+00:00:31.325: 	b-frames:     0
+00:00:31.325: 	ffmpeg opts:  
+00:00:31.325: 
+00:00:31.351: libfdk_aac encoder created
+00:00:31.351: libfdk_aac bitrate: 160, channels: 2
+00:00:31.355: ==== Recording Start ===============================================
+00:00:31.355: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-00-31.mp4'...
+00:00:51.038: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-00-31.mp4' stopped
+00:00:51.038: Output 'adv_file_output': stopping
+00:00:51.038: Output 'adv_file_output': Total frames output: 587
+00:00:51.038: Output 'adv_file_output': Total drawn frames: 590
+00:00:51.038: ==== Recording Stop ================================================
+00:00:51.047: libfdk_aac encoder destroyed
+00:01:01.763: ---------------------------------
+00:01:01.763: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:01:01.763: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:01:01.763: 	rate_control: CBR
+00:01:01.763: 	profile:      100
+00:01:01.763: 	level:        -99
+00:01:01.763: 	qp:           0
+00:01:01.763: 	bitrate:      2500
+00:01:01.763: 	maxrate:      2500
+00:01:01.763: 	keyint:       120
+00:01:01.763: 	width:        1364
+00:01:01.763: 	height:       768
+00:01:01.763: 	b-frames:     0
+00:01:01.763: 	ffmpeg opts:  
+00:01:01.763: 
+00:01:01.792: libfdk_aac encoder created
+00:01:01.792: libfdk_aac bitrate: 160, channels: 2
+00:01:01.796: ==== Recording Start ===============================================
+00:01:01.796: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-01-01.mp4'...
+00:01:23.035: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-01-01.mp4' stopped
+00:01:23.035: Output 'adv_file_output': stopping
+00:01:23.035: Output 'adv_file_output': Total frames output: 633
+00:01:23.035: Output 'adv_file_output': Total drawn frames: 637
+00:01:23.035: ==== Recording Stop ================================================
+00:01:23.048: libfdk_aac encoder destroyed
+00:01:26.780: ---------------------------------
+00:01:26.780: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:01:26.780: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:01:26.780: 	rate_control: CBR
+00:01:26.780: 	profile:      100
+00:01:26.780: 	level:        -99
+00:01:26.780: 	qp:           0
+00:01:26.780: 	bitrate:      2500
+00:01:26.780: 	maxrate:      2500
+00:01:26.780: 	keyint:       120
+00:01:26.780: 	width:        1364
+00:01:26.780: 	height:       768
+00:01:26.780: 	b-frames:     0
+00:01:26.780: 	ffmpeg opts:  
+00:01:26.780: 
+00:01:26.806: libfdk_aac encoder created
+00:01:26.806: libfdk_aac bitrate: 160, channels: 2
+00:01:26.821: ==== Recording Start ===============================================
+00:01:26.821: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-01-26.mp4'...
+00:04:06.884: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-01-26.mp4' stopped
+00:04:06.884: Output 'adv_file_output': stopping
+00:04:06.884: Output 'adv_file_output': Total frames output: 4798
+00:04:06.884: Output 'adv_file_output': Total drawn frames: 4802
+00:04:06.884: ==== Recording Stop ================================================
+00:04:06.894: libfdk_aac encoder destroyed
+00:05:58.119: ---------------------------------
+00:05:58.119: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:05:58.119: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:05:58.119: 	rate_control: CBR
+00:05:58.119: 	profile:      100
+00:05:58.119: 	level:        -99
+00:05:58.119: 	qp:           0
+00:05:58.119: 	bitrate:      2500
+00:05:58.119: 	maxrate:      2500
+00:05:58.119: 	keyint:       120
+00:05:58.119: 	width:        1364
+00:05:58.119: 	height:       768
+00:05:58.119: 	b-frames:     0
+00:05:58.119: 	ffmpeg opts:  
+00:05:58.119: 
+00:05:58.140: libfdk_aac encoder created
+00:05:58.140: libfdk_aac bitrate: 160, channels: 2
+00:05:58.144: ==== Recording Start ===============================================
+00:05:58.144: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-05-58.mp4'...
+00:06:39.518: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-05-58.mp4' stopped
+00:06:39.519: Output 'adv_file_output': stopping
+00:06:39.519: Output 'adv_file_output': Total frames output: 1238
+00:06:39.519: Output 'adv_file_output': Total drawn frames: 1241
+00:06:39.519: ==== Recording Stop ================================================
+00:06:39.534: libfdk_aac encoder destroyed
+00:06:41.843: ---------------------------------
+00:06:41.843: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:06:41.843: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:06:41.843: 	rate_control: CBR
+00:06:41.843: 	profile:      100
+00:06:41.843: 	level:        -99
+00:06:41.843: 	qp:           0
+00:06:41.843: 	bitrate:      2500
+00:06:41.843: 	maxrate:      2500
+00:06:41.843: 	keyint:       120
+00:06:41.843: 	width:        1364
+00:06:41.843: 	height:       768
+00:06:41.843: 	b-frames:     0
+00:06:41.843: 	ffmpeg opts:  
+00:06:41.843: 
+00:06:41.863: libfdk_aac encoder created
+00:06:41.863: libfdk_aac bitrate: 160, channels: 2
+00:06:41.865: ==== Recording Start ===============================================
+00:06:41.866: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-06-41.mp4'...
+00:06:53.086: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-06-41.mp4' stopped
+00:06:53.086: Output 'adv_file_output': stopping
+00:06:53.086: Output 'adv_file_output': Total frames output: 333
+00:06:53.086: Output 'adv_file_output': Total drawn frames: 337
+00:06:53.087: ==== Recording Stop ================================================
+00:06:53.108: libfdk_aac encoder destroyed
+00:06:56.707: ---------------------------------
+00:06:56.707: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:06:56.707: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:06:56.707: 	rate_control: CBR
+00:06:56.707: 	profile:      100
+00:06:56.707: 	level:        -99
+00:06:56.707: 	qp:           0
+00:06:56.707: 	bitrate:      2500
+00:06:56.707: 	maxrate:      2500
+00:06:56.707: 	keyint:       120
+00:06:56.707: 	width:        1364
+00:06:56.707: 	height:       768
+00:06:56.707: 	b-frames:     0
+00:06:56.707: 	ffmpeg opts:  
+00:06:56.707: 
+00:06:56.738: libfdk_aac encoder created
+00:06:56.738: libfdk_aac bitrate: 160, channels: 2
+00:06:56.741: ==== Recording Start ===============================================
+00:06:56.741: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-06-56.mp4'...
+00:07:19.493: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-06-56.mp4' stopped
+00:07:19.493: Output 'adv_file_output': stopping
+00:07:19.493: Output 'adv_file_output': Total frames output: 680
+00:07:19.493: Output 'adv_file_output': Total drawn frames: 683
+00:07:19.493: ==== Recording Stop ================================================
+00:07:19.501: libfdk_aac encoder destroyed
+00:07:36.742: ---------------------------------
+00:07:36.742: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:07:36.742: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:07:36.742: 	rate_control: CBR
+00:07:36.742: 	profile:      100
+00:07:36.742: 	level:        -99
+00:07:36.742: 	qp:           0
+00:07:36.742: 	bitrate:      2500
+00:07:36.742: 	maxrate:      2500
+00:07:36.742: 	keyint:       120
+00:07:36.742: 	width:        1364
+00:07:36.742: 	height:       768
+00:07:36.742: 	b-frames:     0
+00:07:36.742: 	ffmpeg opts:  
+00:07:36.742: 
+00:07:36.763: libfdk_aac encoder created
+00:07:36.763: libfdk_aac bitrate: 160, channels: 2
+00:07:36.766: ==== Recording Start ===============================================
+00:07:36.766: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-07-36.mp4'...
+00:09:19.793: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-07-36.mp4' stopped
+00:09:19.793: Output 'adv_file_output': stopping
+00:09:19.793: Output 'adv_file_output': Total frames output: 3087
+00:09:19.793: Output 'adv_file_output': Total drawn frames: 3091
+00:09:19.793: ==== Recording Stop ================================================
+00:09:19.801: libfdk_aac encoder destroyed
+00:09:21.563: ---------------------------------
+00:09:21.563: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:09:21.563: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:09:21.563: 	rate_control: CBR
+00:09:21.563: 	profile:      100
+00:09:21.563: 	level:        -99
+00:09:21.563: 	qp:           0
+00:09:21.563: 	bitrate:      2500
+00:09:21.563: 	maxrate:      2500
+00:09:21.563: 	keyint:       120
+00:09:21.563: 	width:        1364
+00:09:21.563: 	height:       768
+00:09:21.563: 	b-frames:     0
+00:09:21.563: 	ffmpeg opts:  
+00:09:21.563: 
+00:09:21.588: libfdk_aac encoder created
+00:09:21.588: libfdk_aac bitrate: 160, channels: 2
+00:09:21.594: ==== Recording Start ===============================================
+00:09:21.594: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-09-21.mp4'...
+00:09:45.271: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-09-21.mp4' stopped
+00:09:45.271: Output 'adv_file_output': stopping
+00:09:45.271: Output 'adv_file_output': Total frames output: 706
+00:09:45.271: Output 'adv_file_output': Total drawn frames: 710
+00:09:45.271: ==== Recording Stop ================================================
+00:09:45.290: libfdk_aac encoder destroyed
+00:09:55.927: ---------------------------------
+00:09:55.927: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:09:55.927: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:09:55.927: 	rate_control: CBR
+00:09:55.927: 	profile:      100
+00:09:55.927: 	level:        -99
+00:09:55.927: 	qp:           0
+00:09:55.927: 	bitrate:      2500
+00:09:55.927: 	maxrate:      2500
+00:09:55.927: 	keyint:       120
+00:09:55.927: 	width:        1364
+00:09:55.927: 	height:       768
+00:09:55.927: 	b-frames:     0
+00:09:55.927: 	ffmpeg opts:  
+00:09:55.927: 
+00:09:55.950: libfdk_aac encoder created
+00:09:55.951: libfdk_aac bitrate: 160, channels: 2
+00:09:55.953: ==== Recording Start ===============================================
+00:09:55.954: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-09-55.mp4'...
+00:10:20.816: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-09-55.mp4' stopped
+00:10:20.816: Output 'adv_file_output': stopping
+00:10:20.816: Output 'adv_file_output': Total frames output: 742
+00:10:20.816: Output 'adv_file_output': Total drawn frames: 746
+00:10:20.817: ==== Recording Stop ================================================
+00:10:20.873: libfdk_aac encoder destroyed
+00:10:24.463: ---------------------------------
+00:10:24.464: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:10:24.464: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:10:24.464: 	rate_control: CBR
+00:10:24.464: 	profile:      100
+00:10:24.464: 	level:        -99
+00:10:24.464: 	qp:           0
+00:10:24.464: 	bitrate:      2500
+00:10:24.464: 	maxrate:      2500
+00:10:24.464: 	keyint:       120
+00:10:24.464: 	width:        1364
+00:10:24.464: 	height:       768
+00:10:24.464: 	b-frames:     0
+00:10:24.464: 	ffmpeg opts:  
+00:10:24.464: 
+00:10:24.501: libfdk_aac encoder created
+00:10:24.501: libfdk_aac bitrate: 160, channels: 2
+00:10:24.504: ==== Recording Start ===============================================
+00:10:24.504: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-10-24.mp4'...
+00:11:50.426: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-10-24.mp4' stopped
+00:11:50.426: Output 'adv_file_output': stopping
+00:11:50.426: Output 'adv_file_output': Total frames output: 2575
+00:11:50.426: Output 'adv_file_output': Total drawn frames: 2578
+00:11:50.427: ==== Recording Stop ================================================
+00:11:50.434: libfdk_aac encoder destroyed
+00:11:53.329: ---------------------------------
+00:11:53.329: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:11:53.329: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:11:53.329: 	rate_control: CBR
+00:11:53.329: 	profile:      100
+00:11:53.329: 	level:        -99
+00:11:53.329: 	qp:           0
+00:11:53.329: 	bitrate:      2500
+00:11:53.329: 	maxrate:      2500
+00:11:53.329: 	keyint:       120
+00:11:53.329: 	width:        1364
+00:11:53.329: 	height:       768
+00:11:53.329: 	b-frames:     0
+00:11:53.329: 	ffmpeg opts:  
+00:11:53.329: 
+00:11:53.353: libfdk_aac encoder created
+00:11:53.353: libfdk_aac bitrate: 160, channels: 2
+00:11:53.356: ==== Recording Start ===============================================
+00:11:53.356: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-11-53.mp4'...
+00:12:22.430: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-11-53.mp4' stopped
+00:12:22.430: Output 'adv_file_output': stopping
+00:12:22.430: Output 'adv_file_output': Total frames output: 868
+00:12:22.430: Output 'adv_file_output': Total drawn frames: 872
+00:12:22.433: ==== Recording Stop ================================================
+00:12:22.515: libfdk_aac encoder destroyed
+00:12:28.753: ---------------------------------
+00:12:28.753: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:12:28.753: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:12:28.753: 	rate_control: CBR
+00:12:28.753: 	profile:      100
+00:12:28.753: 	level:        -99
+00:12:28.753: 	qp:           0
+00:12:28.753: 	bitrate:      2500
+00:12:28.753: 	maxrate:      2500
+00:12:28.753: 	keyint:       120
+00:12:28.753: 	width:        1364
+00:12:28.753: 	height:       768
+00:12:28.753: 	b-frames:     0
+00:12:28.753: 	ffmpeg opts:  
+00:12:28.753: 
+00:12:28.848: libfdk_aac encoder created
+00:12:28.849: libfdk_aac bitrate: 160, channels: 2
+00:12:28.863: ==== Recording Start ===============================================
+00:12:28.863: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-12-28.mp4'...
+00:12:44.511: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-12-28.mp4' stopped
+00:12:44.511: Output 'adv_file_output': stopping
+00:12:44.511: Output 'adv_file_output': Total frames output: 466
+00:12:44.511: Output 'adv_file_output': Total drawn frames: 470
+00:12:44.512: ==== Recording Stop ================================================
+00:12:44.617: libfdk_aac encoder destroyed
+00:13:11.331: ---------------------------------
+00:13:11.331: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+00:13:11.331: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+00:13:11.331: 	rate_control: CBR
+00:13:11.331: 	profile:      100
+00:13:11.331: 	level:        -99
+00:13:11.331: 	qp:           0
+00:13:11.331: 	bitrate:      2500
+00:13:11.331: 	maxrate:      2500
+00:13:11.331: 	keyint:       120
+00:13:11.331: 	width:        1364
+00:13:11.331: 	height:       768
+00:13:11.331: 	b-frames:     0
+00:13:11.331: 	ffmpeg opts:  
+00:13:11.331: 
+00:13:11.394: libfdk_aac encoder created
+00:13:11.394: libfdk_aac bitrate: 160, channels: 2
+00:13:11.408: ==== Recording Start ===============================================
+00:13:11.408: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-22 00-13-11.mp4'...
+00:14:56.027: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-22 00-13-11.mp4' stopped
+00:14:56.027: Output 'adv_file_output': stopping
+00:14:56.027: Output 'adv_file_output': Total frames output: 3135
+00:14:56.027: Output 'adv_file_output': Total drawn frames: 3139
+00:14:56.028: ==== Recording Stop ================================================
+00:14:56.039: libfdk_aac encoder destroyed
+01:45:54.523: ==== Shutting down ==================================================
+01:45:54.548: pulse-input: Stopped recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor'
+01:45:54.548: pulse-input: Got 274892 packets with 329870400 frames
+01:45:54.548: pulse-input: Stopped recording from 'alsa_input.pci-0000_04_00.6.analog-stereo'
+01:45:54.548: pulse-input: Got 274893 packets with 329871600 frames
+01:45:54.551: [pipewire] Stream 0x55a86d5140d0 state: "paused" (error: none)
+01:45:54.552: [pipewire] Stream 0x55a86d5140d0 state: "unconnected" (error: none)
+01:45:54.558: [pipewire] Stream 0x55a86d4aaf40 state: "paused" (error: none)
+01:45:54.561: [pipewire] Stream 0x55a86d4aaf40 state: "unconnected" (error: none)
+01:45:54.566: [pipewire] Stream 0x55a86d7de150 state: "paused" (error: none)
+01:45:54.571: [pipewire] Stream 0x55a86d7de150 state: "unconnected" (error: none)
+01:45:54.576: [pipewire] Stream 0x55a86d4debc0 state: "paused" (error: none)
+01:45:54.578: [pipewire] Stream 0x55a86d4debc0 state: "unconnected" (error: none)
+01:45:54.580: [pipewire] Stream 0x55a86cf28490 state: "paused" (error: none)
+01:45:54.657: Not all sources were cleared when clearing scene data:
+01:45:54.657: 
+01:45:54.657: - Video Capture Device (PipeWire) (BETA)
+01:45:54.657: 
+01:45:54.662: ==== Shutting down ==================================================
+01:45:54.666: Tried to call obs_frontend_save with no callbacks!
+01:45:54.705: [pipewire] Stream 0x55a86cf28490 state: "unconnected" (error: none)
+01:45:54.798: [obs-websocket] [obs_module_unload] Shutting down...
+01:45:54.798: Tried to call obs_frontend_remove_event_callback with no callbacks!
+01:45:54.798: [obs-websocket] [obs_module_unload] Finished shutting down.
+01:45:54.818: [Scripting] Total detached callbacks: 0
+01:45:54.818: Freeing OBS context data
+01:45:54.895: == Profiler Results =============================
+01:45:54.895: run_program_init: 8262.3 ms
+01:45:54.895:  ┣OBSApp::AppInit: 59.154 ms
+01:45:54.895:  ┃ ┗OBSApp::InitLocale: 4.255 ms
+01:45:54.895:  ┗OBSApp::OBSInit: 3369.47 ms
+01:45:54.895:    ┣obs_startup: 4.174 ms
+01:45:54.895:    ┗OBSBasic::OBSInit: 3292.61 ms
+01:45:54.895:      ┣OBSBasic::InitBasicConfig: 0.162 ms
+01:45:54.895:      ┣OBSBasic::ResetAudio: 0.329 ms
+01:45:54.895:      ┣OBSBasic::ResetVideo: 258.636 ms
+01:45:54.895:      ┃ ┗obs_init_graphics: 224.001 ms
+01:45:54.895:      ┃   ┗shader compilation: 101.641 ms
+01:45:54.895:      ┣OBSBasic::InitOBSCallbacks: 0.011 ms
+01:45:54.895:      ┣OBSBasic::InitHotkeys: 0.032 ms
+01:45:54.895:      ┣obs_load_all_modules2: 2630.77 ms
+01:45:54.895:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+01:45:54.895:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+01:45:54.895:      ┃ ┣obs_init_module(decklink.so): 1.588 ms
+01:45:54.895:      ┃ ┣obs_init_module(frontend-tools.so): 229.056 ms
+01:45:54.895:      ┃ ┣obs_init_module(image-source.so): 0.016 ms
+01:45:54.895:      ┃ ┣obs_init_module(linux-alsa.so): 0.004 ms
+01:45:54.895:      ┃ ┣obs_init_module(linux-capture.so): 0.001 ms
+01:45:54.895:      ┃ ┣obs_init_module(linux-jack.so): 0.004 ms
+01:45:54.895:      ┃ ┣obs_init_module(linux-pipewire.so): 36.373 ms
+01:45:54.895:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.009 ms
+01:45:54.895:      ┃ ┣obs_init_module(linux-v4l2.so): 9.128 ms
+01:45:54.895:      ┃ ┣obs_init_module(obs-browser.so): 0.102 ms
+01:45:54.895:      ┃ ┣obs_init_module(obs-ffmpeg.so): 117.559 ms
+01:45:54.895:      ┃ ┃ ┗nvenc_check: 1.112 ms
+01:45:54.895:      ┃ ┣obs_init_module(obs-filters.so): 0.039 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-outputs.so): 0.009 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-qsv11.so): 64.547 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-transitions.so): 0.014 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-vst.so): 0.006 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-webkitgtk.so): 0.007 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-webrtc.so): 0.007 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-websocket.so): 22.617 ms
+01:45:54.896:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+01:45:54.896:      ┃ ┣obs_init_module(rtmp-services.so): 1.236 ms
+01:45:54.896:      ┃ ┣obs_init_module(text-freetype2.so): 0.033 ms
+01:45:54.896:      ┃ ┗obs_init_module(vlc-video.so): 24.358 ms
+01:45:54.896:      ┣OBSBasic::InitService: 14.072 ms
+01:45:54.896:      ┣OBSBasic::ResetOutputs: 44.698 ms
+01:45:54.896:      ┣OBSBasic::CreateHotkeys: 0.035 ms
+01:45:54.896:      ┣OBSBasic::InitPrimitives: 0.074 ms
+01:45:54.896:      ┗OBSBasic::Load: 152.455 ms
+01:45:54.896: obs_hotkey_thread(25 ms): min=0 ms, median=0.001 ms, max=1.809 ms, 99th percentile=0.002 ms, 100% below 25 ms
+01:45:54.896: audio_thread(Audio): min=0.017 ms, median=0.083 ms, max=344.962 ms, 99th percentile=1.916 ms
+01:45:54.896:  ┗receive_audio: min=0.002 ms, median=0.364 ms, max=344.871 ms, 99th percentile=2.462 ms, 0.131417 calls per parent call
+01:45:54.896:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=1.342 ms, 99th percentile=0.003 ms
+01:45:54.896:    ┗do_encode: min=0.082 ms, median=0.36 ms, max=344.867 ms, 99th percentile=2.453 ms
+01:45:54.896:      ┣encode(Track1): min=0.079 ms, median=0.334 ms, max=8.487 ms, 99th percentile=1.745 ms
+01:45:54.896:      ┗send_packet: min=0.001 ms, median=0.018 ms, max=344.543 ms, 99th percentile=1.573 ms
+01:45:54.896: obs_graphics_thread(33.3333 ms): min=0.078 ms, median=1.822 ms, max=143.646 ms, 99th percentile=12.296 ms, 99.9947% below 33.333 ms
+01:45:54.896:  ┣tick_sources: min=0 ms, median=0.015 ms, max=116.358 ms, 99th percentile=0.066 ms
+01:45:54.896:  ┣output_frame: min=0.071 ms, median=0.684 ms, max=135.762 ms, 99th percentile=5.159 ms
+01:45:54.896:  ┃ ┣gs_context(video->graphics): min=0.071 ms, median=0.639 ms, max=135.758 ms, 99th percentile=4.863 ms
+01:45:54.896:  ┃ ┃ ┣render_video: min=0.006 ms, median=0.35 ms, max=63.469 ms, 99th percentile=1.513 ms
+01:45:54.896:  ┃ ┃ ┃ ┣render_main_texture: min=0.005 ms, median=0.337 ms, max=63.462 ms, 99th percentile=1.465 ms
+01:45:54.896:  ┃ ┃ ┃ ┣render_output_texture: min=0.011 ms, median=0.014 ms, max=2.974 ms, 99th percentile=0.057 ms, 0.131277 calls per parent call
+01:45:54.896:  ┃ ┃ ┃ ┣render_convert_texture: min=0.02 ms, median=0.025 ms, max=4.965 ms, 99th percentile=0.11 ms, 0.131277 calls per parent call
+01:45:54.896:  ┃ ┃ ┃ ┗stage_output_texture: min=0.01 ms, median=0.013 ms, max=3.408 ms, 99th percentile=0.045 ms, 0.131277 calls per parent call
+01:45:54.896:  ┃ ┃ ┣gs_flush: min=0.001 ms, median=0.262 ms, max=72.114 ms, 99th percentile=4.102 ms
+01:45:54.896:  ┃ ┃ ┗download_frame: min=0 ms, median=0.077 ms, max=5.684 ms, 99th percentile=1.045 ms, 0.131277 calls per parent call
+01:45:54.896:  ┃ ┗output_video_data: min=0.001 ms, median=0.35 ms, max=6.784 ms, 99th percentile=2.647 ms, 0.131189 calls per parent call
+01:45:54.896:  ┗render_displays: min=0.003 ms, median=0.974 ms, max=88.264 ms, 99th percentile=8.632 ms
+01:45:54.896: video_thread(video): min=0.001 ms, median=1.73 ms, max=342.295 ms, 99th percentile=8.802 ms
+01:45:54.897:  ┗receive_video: min=0.549 ms, median=1.719 ms, max=342.293 ms, 99th percentile=8.71 ms
+01:45:54.897:    ┗do_encode: min=0.548 ms, median=1.715 ms, max=342.29 ms, 99th percentile=8.709 ms
+01:45:54.897:      ┣encode(advanced_video_recording): min=0.54 ms, median=1.669 ms, max=36.223 ms, 99th percentile=8.517 ms
+01:45:54.897:      ┗send_packet: min=0.002 ms, median=0.009 ms, max=339.482 ms, 99th percentile=0.827 ms
+01:45:54.897: =================================================
+01:45:54.897: == Profiler Time Between Calls ==================
+01:45:54.897: obs_hotkey_thread(25 ms): min=25.011 ms, median=25.072 ms, max=36.317 ms, 94.5658% within ±2% of 25 ms (0% lower, 5.43416% higher)
+01:45:54.897: obs_graphics_thread(33.3333 ms): min=13.628 ms, median=33.333 ms, max=143.663 ms, 88.8649% within ±2% of 33.333 ms (5.58233% lower, 5.55275% higher)
+01:45:54.897: =================================================
+01:45:55.078: Number of memory leaks: 0

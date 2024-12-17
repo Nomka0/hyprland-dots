@@ -1,0 +1,565 @@
+17:20:18.468: Platform: Wayland
+17:20:18.468: CPU Name: AMD Athlon Silver 3050U with Radeon Graphics
+17:20:18.468: CPU Speed: 3192.164MHz
+17:20:18.468: Physical Cores: 2, Logical Cores: 2
+17:20:18.468: Physical Memory: 5831MB Total, 632MB Free
+17:20:18.468: Kernel Version: Linux 6.10.6-200.fc40.x86_64
+17:20:18.468: Distribution: "Fedora Linux" 40
+17:20:18.468: Desktop Environment: Hyprland
+17:20:18.468: Session Type: wayland
+17:20:18.471: Qt Version: 6.7.2 (runtime), 6.7.2 (compiled)
+17:20:18.471: Portable mode: false
+17:20:18.524: OBS 30.2.2 (linux)
+17:20:18.524: ---------------------------------
+17:20:18.525: ---------------------------------
+17:20:18.525: audio settings reset:
+17:20:18.525: 	samples per sec: 48000
+17:20:18.525: 	speakers:        2
+17:20:18.525: 	max buffering:   960 milliseconds
+17:20:18.525: 	buffering type:  dynamically increasing
+17:20:18.539: ---------------------------------
+17:20:18.539: Initializing OpenGL...
+17:20:18.539: Using EGL/Wayland
+17:20:18.599: Initialized EGL 1.5
+17:20:18.620: Loading up OpenGL on adapter AMD AMD Radeon Graphics (radeonsi, raven2, LLVM 18.1.6, DRM 3.57, 6.10.6-200.fc40.x86_64)
+17:20:18.620: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.1.6, shading language 4.60
+17:20:18.684: ---------------------------------
+17:20:18.684: video settings reset:
+17:20:18.684: 	base resolution:   1366x768
+17:20:18.684: 	output resolution: 1364x768
+17:20:18.684: 	downscale filter:  Bicubic
+17:20:18.684: 	fps:               30/1
+17:20:18.684: 	format:            NV12
+17:20:18.684: 	YUV mode:          Rec. 709/Partial
+17:20:18.684: NV12 texture support enabled
+17:20:18.684: P010 texture support not available
+17:20:18.701: Audio monitoring device:
+17:20:18.701: 	name: Default
+17:20:18.701: 	id: default
+17:20:18.701: ---------------------------------
+17:20:18.738: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:20:18.764: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:20:18.787: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:20:18.787: Failed to initialize module 'decklink.so'
+17:20:19.133: [pipewire] Available capture sources:
+17:20:19.133: [pipewire]     - Monitor source
+17:20:19.133: [pipewire]     - Window source
+17:20:19.195: v4l2loopback not installed, virtual camera not registered
+17:20:19.381: [obs-browser]: Version 2.23.5
+17:20:19.381: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0+g17f8588+chromium-103.0.5060.134 (compiled)
+17:20:19.662: VAAPI: API version 1.21
+17:20:19.669: FFmpeg VAAPI H264 encoding supported
+17:20:19.686: FFmpeg VAAPI AV1 encoding not supported
+17:20:19.703: FFmpeg VAAPI HEVC encoding supported
+17:20:20.012: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.5.1 | RPC Version: 1)
+17:20:20.012: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.7.2 | Qt version (run-time): 6.7.2
+17:20:20.012: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+17:20:20.019: [obs-websocket] [obs_module_load] Module loaded.
+17:20:20.127: [vlc-video]: VLC 3.0.21 Vetinari found, VLC video source enabled
+17:20:20.128: ---------------------------------
+17:20:20.128:   Loaded Modules:
+17:20:20.128:     vlc-video.so
+17:20:20.128:     text-freetype2.so
+17:20:20.128:     rtmp-services.so
+17:20:20.128:     obs-x264.so
+17:20:20.128:     obs-websocket.so
+17:20:20.128:     obs-webrtc.so
+17:20:20.128:     obs-webkitgtk.so
+17:20:20.128:     obs-vst.so
+17:20:20.128:     obs-transitions.so
+17:20:20.128:     obs-qsv11.so
+17:20:20.128:     obs-outputs.so
+17:20:20.128:     obs-libfdk.so
+17:20:20.128:     obs-filters.so
+17:20:20.128:     obs-ffmpeg.so
+17:20:20.128:     obs-browser.so
+17:20:20.128:     linux-v4l2.so
+17:20:20.128:     linux-pulseaudio.so
+17:20:20.128:     linux-pipewire.so
+17:20:20.128:     linux-jack.so
+17:20:20.128:     linux-capture.so
+17:20:20.128:     linux-alsa.so
+17:20:20.128:     image-source.so
+17:20:20.128:     frontend-tools.so
+17:20:20.128:     decklink-output-ui.so
+17:20:20.128:     decklink-captions.so
+17:20:20.128: ---------------------------------
+17:20:20.128: ---------------------------------
+17:20:20.128: Available Encoders:
+17:20:20.128:   Video Encoders:
+17:20:20.128: 	- ffmpeg_openh264 (OpenH264)
+17:20:20.128: 	- ffmpeg_svt_av1 (SVT-AV1)
+17:20:20.128: 	- ffmpeg_aom_av1 (AOM AV1)
+17:20:20.128: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+17:20:20.128: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+17:20:20.128: 	- obs_x264 (x264)
+17:20:20.128:   Audio Encoders:
+17:20:20.128: 	- ffmpeg_aac (FFmpeg AAC)
+17:20:20.128: 	- ffmpeg_opus (FFmpeg Opus)
+17:20:20.128: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+17:20:20.128: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+17:20:20.128: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+17:20:20.128: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+17:20:20.128: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+17:20:20.128: 	- libfdk_aac (libfdk AAC)
+17:20:20.128: ==== Startup complete ===============================================
+17:20:20.195: All scene data cleared
+17:20:20.195: ------------------------------------------------
+17:20:20.202: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+17:20:20.202: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+17:20:20.202: pulse-input: Started recording from 'alsa_output.pci-0000_04_00.6.analog-stereo.monitor' (default)
+17:20:20.202: [Loaded global audio device]: 'Desktop Audio'
+17:20:20.203: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+17:20:20.203: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+17:20:20.203: pulse-input: Started recording from 'alsa_input.pci-0000_04_00.6.analog-stereo' (default)
+17:20:20.203: [Loaded global audio device]: 'Mic/Aux'
+17:20:20.204: PipeWire initialized
+17:20:20.204: PipeWire initialized
+17:20:20.204: PipeWire initialized
+17:20:20.210: Switched to scene 'Scene'
+17:20:20.210: ------------------------------------------------
+17:20:20.210: Loaded scenes:
+17:20:20.210: - scene 'Scene':
+17:20:20.210:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+17:20:20.210:     - source: 'Screen Capture (PipeWire) 2' (pipewire-desktop-capture-source)
+17:20:20.210:     - source: 'Screen Capture (PipeWire) 3' (pipewire-screen-capture-source)
+17:20:20.210: ------------------------------------------------
+17:20:20.364: [pipewire] Screencast session created
+17:20:20.365: [pipewire] Screencast session created
+17:20:20.365: [pipewire] Screencast session created
+17:20:20.787: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+17:20:20.787: 
+17:20:21.804: [rtmp-services plugin] Successfully updated file 'services.json' (version 264)
+17:20:21.805: [rtmp-services plugin] Successfully updated package (version 264)
+17:23:56.130: [pipewire] Asking for monitor
+17:23:57.037: [pipewire] Asking for monitor and window
+17:23:57.758: [pipewire] Asking for monitor
+17:23:57.763: [pipewire] source selected, setting up screencast
+17:23:57.765: [pipewire] source selected, setting up screencast
+17:23:57.767: [pipewire] source selected, setting up screencast
+17:23:57.782: [pipewire] Server version: 1.0.7
+17:23:57.782: [pipewire] Library version: 1.0.7
+17:23:57.782: [pipewire] Header version: 1.0.7
+17:23:57.782: [pipewire] Created stream 0x558672ce7220
+17:23:57.782: [pipewire] Stream 0x558672ce7220 state: "connecting" (error: none)
+17:23:57.782: [pipewire] Playing stream 0x558672ce7220
+17:23:57.784: [pipewire] Server version: 1.0.7
+17:23:57.784: [pipewire] Library version: 1.0.7
+17:23:57.784: [pipewire] Header version: 1.0.7
+17:23:57.788: [pipewire] Created stream 0x558672d1aca0
+17:23:57.788: [pipewire] Stream 0x558672d1aca0 state: "connecting" (error: none)
+17:23:57.788: [pipewire] Playing stream 0x558672d1aca0
+17:23:57.789: [pipewire] Stream 0x558672ce7220 state: "paused" (error: none)
+17:23:57.790: [pipewire] Stream 0x558672d1aca0 state: "paused" (error: none)
+17:23:57.790: [pipewire] Server version: 1.0.7
+17:23:57.790: [pipewire] Library version: 1.0.7
+17:23:57.790: [pipewire] Header version: 1.0.7
+17:23:57.790: [pipewire] Created stream 0x558672a93660
+17:23:57.790: [pipewire] Stream 0x558672a93660 state: "connecting" (error: none)
+17:23:57.790: [pipewire] Playing stream 0x558672a93660
+17:23:57.791: [pipewire] Stream 0x558672a93660 state: "paused" (error: none)
+17:23:57.808: [pipewire] Negotiated format:
+17:23:57.808: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.808: [pipewire]     Modifier: 0x0
+17:23:57.808: [pipewire]     Size: 1366x768
+17:23:57.808: [pipewire]     Framerate: 0/1
+17:23:57.815: [pipewire] Negotiated format:
+17:23:57.815: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.815: [pipewire]     Modifier: 0x20000024331ba01
+17:23:57.815: [pipewire]     Size: 1366x768
+17:23:57.815: [pipewire]     Framerate: 0/1
+17:23:57.817: [pipewire] Stream 0x558672ce7220 state: "streaming" (error: none)
+17:23:57.819: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:23:57.819: [pipewire] Renegotiating stream
+17:23:57.820: [pipewire] Negotiated format:
+17:23:57.820: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.820: [pipewire]     Modifier: 0x20000024331ba01
+17:23:57.820: [pipewire]     Size: 1366x768
+17:23:57.820: [pipewire]     Framerate: 0/1
+17:23:57.822: [pipewire] Negotiated format:
+17:23:57.822: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.822: [pipewire]     Modifier: 0x20000024331b901
+17:23:57.822: [pipewire]     Size: 1366x768
+17:23:57.822: [pipewire]     Framerate: 0/1
+17:23:57.829: [pipewire] Negotiated format:
+17:23:57.830: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.830: [pipewire]     Modifier: 0x0
+17:23:57.830: [pipewire]     Size: 1366x768
+17:23:57.830: [pipewire]     Framerate: 0/1
+17:23:57.833: [pipewire] Negotiated format:
+17:23:57.833: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.833: [pipewire]     Modifier: 0x20000024331ba01
+17:23:57.833: [pipewire]     Size: 1366x768
+17:23:57.833: [pipewire]     Framerate: 0/1
+17:23:57.838: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:23:57.838: [pipewire] Renegotiating stream
+17:23:57.838: [pipewire] Negotiated format:
+17:23:57.838: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.838: [pipewire]     Modifier: 0x0
+17:23:57.838: [pipewire]     Size: 1366x768
+17:23:57.838: [pipewire]     Framerate: 0/1
+17:23:57.838: [pipewire] Stream 0x558672d1aca0 state: "streaming" (error: none)
+17:23:57.839: [pipewire] Stream 0x558672ce7220 state: "paused" (error: none)
+17:23:57.840: [pipewire] Negotiated format:
+17:23:57.841: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.841: [pipewire]     Modifier: 0x20000024331ba01
+17:23:57.841: [pipewire]     Size: 1366x768
+17:23:57.841: [pipewire]     Framerate: 0/1
+17:23:57.841: [pipewire] Negotiated format:
+17:23:57.841: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.841: [pipewire]     Modifier: 0x20000024331b901
+17:23:57.841: [pipewire]     Size: 1366x768
+17:23:57.841: [pipewire]     Framerate: 0/1
+17:23:57.842: [pipewire] Negotiated format:
+17:23:57.842: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.842: [pipewire]     Modifier: 0x200000003313901
+17:23:57.842: [pipewire]     Size: 1366x768
+17:23:57.842: [pipewire]     Framerate: 0/1
+17:23:57.844: [pipewire] Stream 0x558672a93660 state: "streaming" (error: none)
+17:23:57.847: [pipewire] Stream 0x558672ce7220 state: "streaming" (error: none)
+17:23:57.853: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:23:57.853: [pipewire] Renegotiating stream
+17:23:57.853: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:23:57.853: [pipewire] Renegotiating stream
+17:23:57.853: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:23:57.853: [pipewire] Renegotiating stream
+17:23:57.853: [pipewire] Negotiated format:
+17:23:57.853: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.853: [pipewire]     Modifier: 0x20000024331ba01
+17:23:57.853: [pipewire]     Size: 1366x768
+17:23:57.853: [pipewire]     Framerate: 0/1
+17:23:57.854: [pipewire] Negotiated format:
+17:23:57.854: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.854: [pipewire]     Modifier: 0x20000024331ba01
+17:23:57.854: [pipewire]     Size: 1366x768
+17:23:57.854: [pipewire]     Framerate: 0/1
+17:23:57.855: [pipewire] Negotiated format:
+17:23:57.855: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.855: [pipewire]     Modifier: 0x20000024331b901
+17:23:57.855: [pipewire]     Size: 1366x768
+17:23:57.855: [pipewire]     Framerate: 0/1
+17:23:57.856: [pipewire] Negotiated format:
+17:23:57.856: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.856: [pipewire]     Modifier: 0x200000003313901
+17:23:57.856: [pipewire]     Size: 1366x768
+17:23:57.856: [pipewire]     Framerate: 0/1
+17:23:57.856: [pipewire] Negotiated format:
+17:23:57.856: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.856: [pipewire]     Modifier: 0x20000024331b901
+17:23:57.856: [pipewire]     Size: 1366x768
+17:23:57.856: [pipewire]     Framerate: 0/1
+17:23:57.858: [pipewire] Negotiated format:
+17:23:57.858: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.858: [pipewire]     Modifier: 0x200000003201a01
+17:23:57.858: [pipewire]     Size: 1366x768
+17:23:57.858: [pipewire]     Framerate: 0/1
+17:23:57.865: [pipewire] Stream 0x558672ce7220 state: "paused" (error: none)
+17:23:57.865: [pipewire] Stream 0x558672d1aca0 state: "paused" (error: none)
+17:23:57.866: [pipewire] Stream 0x558672ce7220 state: "streaming" (error: none)
+17:23:57.866: [pipewire] Stream 0x558672d1aca0 state: "streaming" (error: none)
+17:23:57.869: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:23:57.869: [pipewire] Renegotiating stream
+17:23:57.871: [pipewire] Stream 0x558672a93660 state: "paused" (error: none)
+17:23:57.872: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:23:57.872: [pipewire] Renegotiating stream
+17:23:57.873: [pipewire] Negotiated format:
+17:23:57.873: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.873: [pipewire]     Modifier: 0x20000024331b901
+17:23:57.873: [pipewire]     Size: 1366x768
+17:23:57.873: [pipewire]     Framerate: 0/1
+17:23:57.875: [pipewire] Negotiated format:
+17:23:57.875: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.875: [pipewire]     Modifier: 0x200000003313901
+17:23:57.875: [pipewire]     Size: 1366x768
+17:23:57.875: [pipewire]     Framerate: 0/1
+17:23:57.877: [pipewire] Negotiated format:
+17:23:57.877: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.877: [pipewire]     Modifier: 0x20000024331b901
+17:23:57.877: [pipewire]     Size: 1366x768
+17:23:57.877: [pipewire]     Framerate: 0/1
+17:23:57.878: [pipewire] Negotiated format:
+17:23:57.878: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.878: [pipewire]     Modifier: 0x200000003313901
+17:23:57.878: [pipewire]     Size: 1366x768
+17:23:57.878: [pipewire]     Framerate: 0/1
+17:23:57.880: [pipewire] Stream 0x558672d1aca0 state: "paused" (error: none)
+17:23:57.881: [pipewire] Stream 0x558672a93660 state: "streaming" (error: none)
+17:23:57.881: [pipewire] Stream 0x558672d1aca0 state: "streaming" (error: none)
+17:23:57.888: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:23:57.889: [pipewire] Renegotiating stream
+17:23:57.890: [pipewire] Negotiated format:
+17:23:57.890: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.890: [pipewire]     Modifier: 0x200000003313901
+17:23:57.890: [pipewire]     Size: 1366x768
+17:23:57.890: [pipewire]     Framerate: 0/1
+17:23:57.891: [pipewire] Negotiated format:
+17:23:57.892: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:23:57.892: [pipewire]     Modifier: 0x200000003201a01
+17:23:57.892: [pipewire]     Size: 1366x768
+17:23:57.892: [pipewire]     Framerate: 0/1
+17:24:06.653: PipeWire initialized
+17:24:06.662: User added source 'Screen Capture (PipeWire) 4' (pipewire-screen-capture-source) to scene 'Scene'
+17:24:06.703: [pipewire] Screencast session created
+17:24:07.989: [pipewire] Asking for monitor and window
+17:24:07.992: [pipewire] source selected, setting up screencast
+17:24:07.997: [pipewire] Server version: 1.0.7
+17:24:07.997: [pipewire] Library version: 1.0.7
+17:24:07.997: [pipewire] Header version: 1.0.7
+17:24:07.997: [pipewire] Created stream 0x558672ab6890
+17:24:07.997: [pipewire] Stream 0x558672ab6890 state: "connecting" (error: none)
+17:24:07.997: [pipewire] Playing stream 0x558672ab6890
+17:24:07.997: [pipewire] Stream 0x558672ab6890 state: "paused" (error: none)
+17:24:08.039: [pipewire] Negotiated format:
+17:24:08.039: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:24:08.039: [pipewire]     Modifier: 0x0
+17:24:08.039: [pipewire]     Size: 1366x768
+17:24:08.039: [pipewire]     Framerate: 0/1
+17:24:08.039: [pipewire] Negotiated format:
+17:24:08.039: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:24:08.039: [pipewire]     Modifier: 0x20000024331ba01
+17:24:08.039: [pipewire]     Size: 1366x768
+17:24:08.039: [pipewire]     Framerate: 0/1
+17:24:08.041: [pipewire] Stream 0x558672ab6890 state: "streaming" (error: none)
+17:24:08.051: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:24:08.051: [pipewire] Renegotiating stream
+17:24:08.052: [pipewire] Negotiated format:
+17:24:08.052: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:24:08.052: [pipewire]     Modifier: 0x20000024331ba01
+17:24:08.052: [pipewire]     Size: 1366x768
+17:24:08.052: [pipewire]     Framerate: 0/1
+17:24:08.053: [pipewire] Negotiated format:
+17:24:08.053: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:24:08.053: [pipewire]     Modifier: 0x20000024331b901
+17:24:08.053: [pipewire]     Size: 1366x768
+17:24:08.053: [pipewire]     Framerate: 0/1
+17:24:08.067: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:24:08.067: [pipewire] Renegotiating stream
+17:24:08.068: [pipewire] Stream 0x558672ab6890 state: "paused" (error: none)
+17:24:08.068: [pipewire] Negotiated format:
+17:24:08.068: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:24:08.068: [pipewire]     Modifier: 0x20000024331b901
+17:24:08.068: [pipewire]     Size: 1366x768
+17:24:08.068: [pipewire]     Framerate: 0/1
+17:24:08.071: [pipewire] Negotiated format:
+17:24:08.071: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:24:08.071: [pipewire]     Modifier: 0x200000003313901
+17:24:08.071: [pipewire]     Size: 1366x768
+17:24:08.071: [pipewire]     Framerate: 0/1
+17:24:08.074: [pipewire] Stream 0x558672ab6890 state: "streaming" (error: none)
+17:24:08.084: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+17:24:08.084: [pipewire] Renegotiating stream
+17:24:08.085: [pipewire] Negotiated format:
+17:24:08.085: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:24:08.085: [pipewire]     Modifier: 0x200000003313901
+17:24:08.085: [pipewire]     Size: 1366x768
+17:24:08.085: [pipewire]     Framerate: 0/1
+17:24:08.086: [pipewire] Negotiated format:
+17:24:08.086: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:24:08.086: [pipewire]     Modifier: 0x200000003201a01
+17:24:08.086: [pipewire]     Size: 1366x768
+17:24:08.086: [pipewire]     Framerate: 0/1
+17:43:10.235: ---------------------------------
+17:43:10.235: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+17:43:10.235: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+17:43:10.235: 	rate_control: CBR
+17:43:10.235: 	profile:      100
+17:43:10.235: 	level:        -99
+17:43:10.235: 	qp:           0
+17:43:10.235: 	bitrate:      2500
+17:43:10.235: 	maxrate:      2500
+17:43:10.235: 	keyint:       120
+17:43:10.235: 	width:        1364
+17:43:10.235: 	height:       768
+17:43:10.235: 	b-frames:     0
+17:43:10.235: 	ffmpeg opts:  
+17:43:10.235: 
+17:43:10.273: libfdk_aac encoder created
+17:43:10.273: libfdk_aac bitrate: 160, channels: 2
+17:43:10.280: ==== Recording Start ===============================================
+17:43:10.280: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-15 17-43-10.mp4'...
+17:43:19.158: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-15 17-43-10.mp4' stopped
+17:43:19.158: Output 'adv_file_output': stopping
+17:43:19.158: Output 'adv_file_output': Total frames output: 260
+17:43:19.158: Output 'adv_file_output': Total drawn frames: 266
+17:43:19.158: ==== Recording Stop ================================================
+17:43:19.169: libfdk_aac encoder destroyed
+17:43:21.810: ---------------------------------
+17:43:21.810: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+17:43:21.810: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+17:43:21.810: 	rate_control: CBR
+17:43:21.810: 	profile:      100
+17:43:21.810: 	level:        -99
+17:43:21.810: 	qp:           0
+17:43:21.810: 	bitrate:      2500
+17:43:21.810: 	maxrate:      2500
+17:43:21.810: 	keyint:       120
+17:43:21.810: 	width:        1364
+17:43:21.810: 	height:       768
+17:43:21.810: 	b-frames:     0
+17:43:21.810: 	ffmpeg opts:  
+17:43:21.810: 
+17:43:21.839: libfdk_aac encoder created
+17:43:21.839: libfdk_aac bitrate: 160, channels: 2
+17:43:21.842: ==== Recording Start ===============================================
+17:43:21.842: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-15 17-43-21.mp4'...
+17:49:14.031: output adv_file_output paused
+17:50:37.648: output adv_file_output unpaused
+17:51:23.559: output adv_file_output paused
+18:20:35.974: output adv_file_output unpaused
+18:20:56.062: output adv_file_output paused
+18:51:10.249: output adv_file_output unpaused
+18:53:38.166: output adv_file_output paused
+18:53:46.211: output adv_file_output unpaused
+18:53:46.363: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-15 17-43-21.mp4' stopped
+18:53:46.364: Output 'adv_file_output': stopping
+18:53:46.364: Output 'adv_file_output': Total frames output: 16982
+18:53:46.364: Output 'adv_file_output': Total drawn frames: 126721 (126735 attempted)
+18:53:46.364: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 14 (0.0%)
+18:53:46.364: ==== Recording Stop ================================================
+18:53:46.372: libfdk_aac encoder destroyed
+19:38:51.554: ---------------------------------
+19:38:51.554: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+19:38:51.554: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+19:38:51.554: 	rate_control: CBR
+19:38:51.554: 	profile:      100
+19:38:51.554: 	level:        -99
+19:38:51.554: 	qp:           0
+19:38:51.554: 	bitrate:      2500
+19:38:51.554: 	maxrate:      2500
+19:38:51.554: 	keyint:       120
+19:38:51.554: 	width:        1364
+19:38:51.554: 	height:       768
+19:38:51.554: 	b-frames:     0
+19:38:51.554: 	ffmpeg opts:  
+19:38:51.554: 
+19:38:51.575: libfdk_aac encoder created
+19:38:51.575: libfdk_aac bitrate: 160, channels: 2
+19:38:51.578: ==== Recording Start ===============================================
+19:38:51.578: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-15 19-38-51.mp4'...
+19:41:01.884: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-15 19-38-51.mp4' stopped
+19:41:01.884: Output 'adv_file_output': stopping
+19:41:01.884: Output 'adv_file_output': Total frames output: 3905
+19:41:01.884: Output 'adv_file_output': Total drawn frames: 3909
+19:41:01.884: ==== Recording Stop ================================================
+19:41:01.908: libfdk_aac encoder destroyed
+19:41:23.094: User Removed source 'Screen Capture (PipeWire) 4' (pipewire-screen-capture-source) from scene 'Scene'
+19:41:23.095: [pipewire] Stream 0x558672ab6890 state: "paused" (error: none)
+19:41:23.095: [pipewire] Stream 0x558672ab6890 state: "unconnected" (error: none)
+19:41:36.453: PipeWire initialized
+19:41:36.457: User added source 'Screen Capture (PipeWire) 4' (pipewire-screen-capture-source) to scene 'Scene'
+19:41:36.486: [pipewire] Screencast session created
+19:41:37.713: [pipewire] Asking for monitor and window
+19:41:37.718: [pipewire] source selected, setting up screencast
+19:41:37.722: [pipewire] Server version: 1.0.7
+19:41:37.722: [pipewire] Library version: 1.0.7
+19:41:37.722: [pipewire] Header version: 1.0.7
+19:41:37.722: [pipewire] Created stream 0x5586726b4650
+19:41:37.722: [pipewire] Stream 0x5586726b4650 state: "connecting" (error: none)
+19:41:37.722: [pipewire] Playing stream 0x5586726b4650
+19:41:37.723: [pipewire] Stream 0x5586726b4650 state: "paused" (error: none)
+19:41:37.757: [pipewire] Negotiated format:
+19:41:37.757: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:41:37.757: [pipewire]     Modifier: 0x0
+19:41:37.757: [pipewire]     Size: 1366x768
+19:41:37.757: [pipewire]     Framerate: 0/1
+19:41:37.758: [pipewire] Negotiated format:
+19:41:37.758: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:41:37.759: [pipewire]     Modifier: 0x20000024331ba01
+19:41:37.759: [pipewire]     Size: 1366x768
+19:41:37.759: [pipewire]     Framerate: 0/1
+19:41:37.761: [pipewire] Stream 0x5586726b4650 state: "streaming" (error: none)
+19:41:37.766: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+19:41:37.767: [pipewire] Renegotiating stream
+19:41:37.768: [pipewire] Negotiated format:
+19:41:37.768: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:41:37.768: [pipewire]     Modifier: 0x20000024331ba01
+19:41:37.768: [pipewire]     Size: 1366x768
+19:41:37.768: [pipewire]     Framerate: 0/1
+19:41:37.770: [pipewire] Negotiated format:
+19:41:37.770: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:41:37.770: [pipewire]     Modifier: 0x20000024331b901
+19:41:37.770: [pipewire]     Size: 1366x768
+19:41:37.770: [pipewire]     Framerate: 0/1
+19:41:37.784: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+19:41:37.784: [pipewire] Renegotiating stream
+19:41:37.784: [pipewire] Stream 0x5586726b4650 state: "paused" (error: none)
+19:41:37.784: [pipewire] Negotiated format:
+19:41:37.784: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:41:37.784: [pipewire]     Modifier: 0x20000024331b901
+19:41:37.784: [pipewire]     Size: 1366x768
+19:41:37.784: [pipewire]     Framerate: 0/1
+19:41:37.786: [pipewire] Negotiated format:
+19:41:37.786: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:41:37.786: [pipewire]     Modifier: 0x200000003313901
+19:41:37.786: [pipewire]     Size: 1366x768
+19:41:37.786: [pipewire]     Framerate: 0/1
+19:41:37.789: [pipewire] Stream 0x5586726b4650 state: "streaming" (error: none)
+19:41:37.801: Cannot create EGLImage: Arguments are inconsistent (for example, a valid context requires buffers not supplied by a valid surface).
+19:41:37.801: [pipewire] Renegotiating stream
+19:41:37.803: [pipewire] Negotiated format:
+19:41:37.803: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:41:37.803: [pipewire]     Modifier: 0x200000003313901
+19:41:37.803: [pipewire]     Size: 1366x768
+19:41:37.803: [pipewire]     Framerate: 0/1
+19:41:37.803: [pipewire] Negotiated format:
+19:41:37.804: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:41:37.804: [pipewire]     Modifier: 0x200000003201a01
+19:41:37.804: [pipewire]     Size: 1366x768
+19:41:37.804: [pipewire]     Framerate: 0/1
+20:11:05.189: ---------------------------------
+20:11:05.189: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+20:11:05.189: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+20:11:05.189: 	rate_control: CBR
+20:11:05.189: 	profile:      100
+20:11:05.189: 	level:        -99
+20:11:05.189: 	qp:           0
+20:11:05.189: 	bitrate:      2500
+20:11:05.189: 	maxrate:      2500
+20:11:05.189: 	keyint:       120
+20:11:05.189: 	width:        1364
+20:11:05.189: 	height:       768
+20:11:05.189: 	b-frames:     0
+20:11:05.189: 	ffmpeg opts:  
+20:11:05.189: 
+20:11:05.216: libfdk_aac encoder created
+20:11:05.217: libfdk_aac bitrate: 160, channels: 2
+20:11:05.219: ==== Recording Start ===============================================
+20:11:05.219: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-15 20-11-05.mp4'...
+20:13:25.926: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-15 20-11-05.mp4' stopped
+20:13:25.926: Output 'adv_file_output': stopping
+20:13:25.926: Output 'adv_file_output': Total frames output: 4217
+20:13:25.926: Output 'adv_file_output': Total drawn frames: 4221
+20:13:25.927: ==== Recording Stop ================================================
+20:13:25.939: libfdk_aac encoder destroyed
+20:23:20.691: ---------------------------------
+20:23:20.691: [FFmpeg VAAPI encoder: 'advanced_video_recording'] settings:
+20:23:20.691: 	device:       /dev/dri/by-path/pci-0000:04:00.0-render
+20:23:20.691: 	rate_control: CBR
+20:23:20.691: 	profile:      100
+20:23:20.691: 	level:        -99
+20:23:20.691: 	qp:           0
+20:23:20.691: 	bitrate:      2500
+20:23:20.691: 	maxrate:      2500
+20:23:20.691: 	keyint:       120
+20:23:20.691: 	width:        1364
+20:23:20.691: 	height:       768
+20:23:20.691: 	b-frames:     0
+20:23:20.691: 	ffmpeg opts:  
+20:23:20.691: 
+20:23:20.720: libfdk_aac encoder created
+20:23:20.720: libfdk_aac bitrate: 160, channels: 2
+20:23:20.723: ==== Recording Start ===============================================
+20:23:20.723: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/nomka/2024-10-15 20-23-20.mp4'...
+20:24:10.113: output adv_file_output paused
+20:24:37.673: output adv_file_output unpaused
+20:25:16.364: output adv_file_output paused
+20:30:45.059: output adv_file_output unpaused
+20:31:10.699: output adv_file_output paused
+00:25:30.310: output adv_file_output unpaused
+00:25:30.438: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/nomka/2024-10-15 20-23-20.mp4' stopped
+00:25:30.438: Output 'adv_file_output': stopping
+00:25:30.438: Output 'adv_file_output': Total frames output: 3412
+00:25:30.438: Output 'adv_file_output': Total drawn frames: 197587 (197644 attempted)
+00:25:30.438: Output 'adv_file_output': Number of lagged frames due to rendering lag/stalls: 57 (0.0%)
+00:25:30.438: ==== Recording Stop ================================================
+00:25:30.452: libfdk_aac encoder destroyed

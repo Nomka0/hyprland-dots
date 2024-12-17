@@ -1,0 +1,1 @@
+[{"action":{"requestHeaders":[{"header":"Origin","operation":"set","value":"https://w2g.tv"},{"header":"Referer","operation":"set","value":"https://w2g.tv/"}],"type":"modifyHeaders"},"condition":{"initiatorDomains":["cimpffimgeipdhnhjohpbehjkcdpjolg"],"requestMethods":["get","post","put"],"resourceTypes":["xmlhttprequest"]},"id":1}]

@@ -1,0 +1,64 @@
+{
+   "Canceling_LabelPleaseWait": {
+      "description": "",
+      "message": "Veuillez patienter..."
+   },
+   "Canceling_LabelRevertingBack": {
+      "description": "",
+      "message": "Retour en arrière"
+   },
+   "Found_LabelOriginal": {
+      "description": "",
+      "message": "Original"
+   },
+   "Found_LabelWithAliCoupons": {
+      "description": "",
+      "message": "Avec AliCoupons"
+   },
+   "Found_LabelYouSaved": {
+      "description": "",
+      "message": "Vous avez enregistré"
+   },
+   "ModalStarter_ButtonCheckThemAll": {
+      "description": "",
+      "message": "Vérifions-nous s'il y a des travaux?"
+   },
+   "ModalStarter_LabelCodesAvailable": {
+      "description": "",
+      "message": "codes disponibles"
+   },
+   "ModalStarter_LabelShouldWeTry": {
+      "description": "",
+      "message": "Devrions-nous essayer si l'un d'entre eux fonctionne pour vous?"
+   },
+   "ModalWorker_ButtonCheckout": {
+      "description": "",
+      "message": "Continuer à la caisse"
+   },
+   "NotFound_LabelAlreadyBestPrice": {
+      "description": "",
+      "message": "Vous avez déjà le meilleur prix!"
+   },
+   "NotFound_LabelTrustUs": {
+      "description": "",
+      "message": "Faites-nous confiance, notre base de données de coupons est mise à jour toutes les heures."
+   },
+   "Processing_LabelBePatient": {
+      "description": "",
+      "message": "Nous vérifions s'il y a des travaux, s'il vous plaît soyez patient."
+   },
+   "Processing_LabelOutOf": {
+      "description": "",
+      "message": "sur"
+   },
+   "Processing_LabelTestingCode": {
+      "description": "",
+      "message": "Vérification du coupon"
+   },
+   "extDescr": {
+      "message": "L'extension pour Chrome qui trouve des remises sur AliExpress sur le pilote automatique"
+   },
+   "extName": {
+      "message": "Chercheur de coupons d’AliExpress"
+   }
+}

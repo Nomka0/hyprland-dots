@@ -1,0 +1,88 @@
+{
+   "Aff_Link_Active_Checkbox_Label": {
+      "description": "",
+      "message": "Active"
+   },
+   "Canceling_LabelPleaseWait": {
+      "description": "",
+      "message": "Please wait..."
+   },
+   "Canceling_LabelRevertingBack": {
+      "description": "",
+      "message": "Reverting back"
+   },
+   "Cashback_Options_Title": {
+      "description": "",
+      "message": "Cashback compatibility"
+   },
+   "Cashback_Services_Description": {
+      "description": "",
+      "message": "If you use any cashback services (programs that give you a small % back from your online purchases) such as Letyshops or Megabonus, activate this option. AliCoupons is funded by requesting unclaimed cashbacks, this way you don't have to pay us and still we earn a bit of money to pay the costs of maintaining our service. But if you do use cashback services please activate the Cashback Compatibility mode to completely disable our cashback and make sure you receive it all."
+   },
+   "Found_LabelOriginal": {
+      "description": "",
+      "message": "Original"
+   },
+   "Found_LabelWithAliCoupons": {
+      "description": "",
+      "message": "With AliCoupons"
+   },
+   "Found_LabelYouSaved": {
+      "description": "",
+      "message": "You saved"
+   },
+   "ModalLetyShops_LabelAliCoupons": {
+      "description": "",
+      "message": "AliCoupons"
+   },
+   "ModalLetyShops_LabelDoYouKnow": {
+      "description": "",
+      "message": "Do you know that you can save up to 30% on this purchase?"
+   },
+   "ModalLetyShops_LabelLetyShopsIsAFree": {
+      "description": "",
+      "message": "LetyShops is a free service that allows you to recover up to 30% of what you spend in Shein, AliExpress, Booking, Wish, Macy's, Walmart, Ikea and thousands of other stores. You just have to register and they take care of recovering the money and paying it back to you."
+   },
+   "ModalStarter_ButtonCheckThemAll": {
+      "description": "",
+      "message": "Check them all"
+   },
+   "ModalStarter_LabelCodesAvailable": {
+      "description": "",
+      "message": "codes available"
+   },
+   "ModalStarter_LabelShouldWeTry": {
+      "description": "",
+      "message": "Should we try if any of them work for you?"
+   },
+   "ModalWorker_ButtonCheckout": {
+      "description": "",
+      "message": "Continue to checkout"
+   },
+   "NotFound_LabelAlreadyBestPrice": {
+      "description": "",
+      "message": "You already have the best price!"
+   },
+   "NotFound_LabelTrustUs": {
+      "description": "",
+      "message": "Trust us, our database of coupons is updated every hour."
+   },
+   "Processing_LabelBePatient": {
+      "description": "",
+      "message": "We are testing all the promo codes available, please be patient."
+   },
+   "Processing_LabelOutOf": {
+      "description": "",
+      "message": "out of"
+   },
+   "Processing_LabelTestingCode": {
+      "description": "",
+      "message": "Testing code"
+   },
+   "extDescr": {
+      "message": "The Chrome extension that finds discounts on AliExpress in autopilot"
+   },
+   "extName": {
+      "message": "AliExpress Coupon Finder"
+   }
+}

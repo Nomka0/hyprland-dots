@@ -1,0 +1,6 @@
+2024/07/08-07:40:47.965 f13 Creating DB /home/nomka/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2024/07/08-07:40:48.002 f13 Reusing MANIFEST /home/nomka/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/08-07:44:42.794 f13 Level-0 table #5: started
+2024/07/08-07:44:42.804 f13 Level-0 table #5: 2133 bytes OK
+2024/07/08-07:44:42.814 f13 Delete type=0 #3
+2024/07/08-07:44:42.814 f13 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

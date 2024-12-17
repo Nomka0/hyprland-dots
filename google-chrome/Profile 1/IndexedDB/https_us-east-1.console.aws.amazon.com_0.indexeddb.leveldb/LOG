@@ -1,0 +1,6 @@
+2024/07/09-22:10:28.299 12f2 Creating DB /home/nomka/.config/google-chrome/Profile 1/IndexedDB/https_us-east-1.console.aws.amazon.com_0.indexeddb.leveldb since it was missing.
+2024/07/09-22:10:28.318 12f2 Reusing MANIFEST /home/nomka/.config/google-chrome/Profile 1/IndexedDB/https_us-east-1.console.aws.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/09-22:11:45.693 12f1 Level-0 table #5: started
+2024/07/09-22:11:45.727 12f1 Level-0 table #5: 143064 bytes OK
+2024/07/09-22:11:45.758 12f1 Delete type=0 #3
+2024/07/09-22:11:45.759 12f1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

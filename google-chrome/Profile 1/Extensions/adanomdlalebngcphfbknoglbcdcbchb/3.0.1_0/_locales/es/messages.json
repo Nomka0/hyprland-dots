@@ -1,0 +1,64 @@
+{
+   "Canceling_LabelPleaseWait": {
+      "description": "",
+      "message": "Por favor espera..."
+   },
+   "Canceling_LabelRevertingBack": {
+      "description": "",
+      "message": "Volver atrás"
+   },
+   "Found_LabelOriginal": {
+      "description": "",
+      "message": "Original"
+   },
+   "Found_LabelWithAliCoupons": {
+      "description": "",
+      "message": "Con AliCoupons"
+   },
+   "Found_LabelYouSaved": {
+      "description": "",
+      "message": "Has ahorrado"
+   },
+   "ModalStarter_ButtonCheckThemAll": {
+      "description": "",
+      "message": "Comprobar códigos"
+   },
+   "ModalStarter_LabelCodesAvailable": {
+      "description": "",
+      "message": "códigos disponibles"
+   },
+   "ModalStarter_LabelShouldWeTry": {
+      "description": "",
+      "message": "¿Probamos si alguno de ellos te funciona?"
+   },
+   "ModalWorker_ButtonCheckout": {
+      "description": "",
+      "message": "Continuar con la compra"
+   },
+   "NotFound_LabelAlreadyBestPrice": {
+      "description": "",
+      "message": "¡Ya tienes el mejor precio!"
+   },
+   "NotFound_LabelTrustUs": {
+      "description": "",
+      "message": "Confía en nosotros, nuestra base de datos de cupones se actualiza cada hora."
+   },
+   "Processing_LabelBePatient": {
+      "description": "",
+      "message": "Estamos probando todos los códigos promocionales disponibles, por favor sé paciente."
+   },
+   "Processing_LabelOutOf": {
+      "description": "",
+      "message": "de"
+   },
+   "Processing_LabelTestingCode": {
+      "description": "",
+      "message": "Probando código"
+   },
+   "extDescr": {
+      "message": "La extensión de Chrome que busca cupones de AliExpress en autopiloto"
+   },
+   "extName": {
+      "message": "Buscador de cupones de AliExpress"
+   }
+}
